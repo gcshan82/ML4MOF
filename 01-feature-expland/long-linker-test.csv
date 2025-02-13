@@ -1,0 +1,12 @@
+﻿ID,linker
+100,CC(C(C(=O)[O-])NCc1ccncc1)C
+101,CC(C(C(=O)[O-])[N]Cc1ccncc1)C
+102,[O-]C(=O)c1ccc(cc1)c1cncc(c1)c1ccc(cc1)C(=O)[O-]
+103,[O-]C(=O)c1ccc(cc1)c1cc(cc(n1)c1ccc(cc1)C(=O)[O-])c1ccncc1
+104,Cc1[nH][n-]c(c1Cc1cccc(n1)Cc1c(C)[n-][nH]c1C)C
+105,Cc1[nH][n-]c(c1Cc1cccc(n1)Cc1c(C)[n-][nH]c1C)C
+106,Cc1[nH][n-]c(c1Cc1cccc(n1)Cc1c(C)[n-][nH]c1C)C
+107,Cc1[nH][n-]c(c1Cc1cccc(n1)Cc1c(C)[n-][nH]c1C)C
+108,
+109,[O-]C(=O)c1ccc(cc1)[C]=Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+110,[O-]C(=O)c1ccc(cc1)[C]=Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
