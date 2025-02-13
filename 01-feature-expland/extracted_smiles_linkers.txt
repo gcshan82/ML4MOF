@@ -1,0 +1,1816 @@
+1 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1ncnc(c1)C(=O)[O-]
+2 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1ncnc(c1)C(=O)[O-]
+3 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1ncnc(c1)C(=O)[O-]
+4 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1ncnc(c1)C(=O)[O-]
+5 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1ncnc(c1)C(=O)[O-]
+6 [O-]C(=O)C1=NC=N[C]1C(=O)[O-] n1ccc(cc1)c1ccncc1
+7 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+8 [O-]C(=O)c1ccc(cc1)P(=O)(c1ccc(cc1)C(=O)O)c1ccc(cc1)C(=O)[O-]
+9 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])COCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])COc1ccc(cc1)C(=O)[O-] c1ncn(c1)c1ccc(cc1)n1cncc1
+10 [O]P(=O)([O])[O]
+11 C1CN2CCN1CC2 [O-]C(=O)c1ccc(c(c1)S([O])([O])[O])C(=O)[O-]
+12 [O-]C(=O)c1ccc(cc1)C(=O)[O-] [O-][n+]1ccc(cc1)c1cc[n+](cc1)[O-]
+13 n1ccc(cc1)c1ccncc1
+14 n1ccc(cc1)c1ccncc1
+15 Cc1cc(ccc1C#Cc1ccc(cc1C)C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+16 C1=C[N]C=N1 C1=N[CH]C=N1
+17 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+18 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+19 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+20 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+21 N1=[C][C]([C]=N1)c1ccc(cc1)C1=[C][N]N=[C]1
+22 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+23 [O-]C(=O)[O-] [O-]C(=O)c1[nH][n-]c(c1)C(=O)[O-]
+24 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+25 [O]P(=O)(CCCCP(=O)([O])[O])[O]
+26 [O-]C(=O)CNCC(=O)[O-]
+27 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])n1c(=O)c2c(c1=O)cc1c(c2)c(=O)n(c1=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+28 [O-]C(=O)c1cc(Cc2cc(cc(c2)C(=O)O)C(=O)[O-])cc(c1)C(=O)[O-]
+29 [O-]C(=O)c1cc(Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+30 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+31 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+32 [O-]C(=O)c1ccc(cc1)N=Nc1ccc(cc1)C(=O)[O-]
+33 [O-]C(=O)c1ccc(cc1)N=Nc1ccc(cc1)C(=O)[O-]
+34 [O-]C(=O)c1ccc(cc1)N=Nc1ccc(cc1)C(=O)[O-] [O-]C(=O)c1ccc(cc1)[N][N]c1ccc(cc1)C(=O)[O-]
+35 [O-]C(=O)c1cncnc1
+36 C1N2CN3CN1CN(C2)C3 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+37 C1N2CN3CN1CN(C2)C3 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+38 [O-]C(=O)CCCC(=O)[O-]
+39 [O-]C(=O)c1ccc(cc1)C=Cc1ccncc1 [O-]C(=O)c1nc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+40 CO[C]([C](c1ccc(cc1)C(=O)[O-])OC)c1ccc(cc1)C(=O)[O-] [C]O[C]([C](c1ccc(cc1)C(=O)[O-])O[C])c1ccc(cc1)C(=O)[O-]
+41 COC(C(c1ccc(cc1)C(=O)[O-])OC)c1ccc(cc1)C(=O)[O-]
+42 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])N1C(=O)c2ccc3c4c2c(C1=O)ccc4C(=O)N(C3=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+43 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])c1cc(cc(c1)c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+44 [O-]C(=O)c1ccc(cc1)c1cc(cc(c1)c1cc(cc(c1)C(=O)[O-])C(=O)[O-])c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+45 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+46 [O-]C(=O)c1cnccn1
+47 [O-]C(=O)c1cnccn1
+48 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])COc1ccc(cc1)C(=O)[O-]
+49 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])COc1ccc(cc1)C(=O)[O-]
+50 [O-]C(=O)c1c(ccc(c1C(=O)[O-])C(=O)[O-])C(=O)[O-]
+51 [O-]C(=O)c1c(ccc(c1C(=O)[O-])C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+52 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+53 [O-]C=O
+54 [O-][C]=O
+55 [O-]C=O
+56 [O-]C=O
+57 [O-]C=O
+58 [O-]C=O
+59 [O-]C=O
+60 [O]P(=O)([C]N1CC[C](CC1)[C]1CCN(CC1)[C]P(=O)(O)[O])O
+61 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+62 CC1=NN=C([N]1)C [O-]C(=O)c1ccc(cc1)C(=O)O
+63 CC1=NN=C([N]1)C [O-]C(=O)c1ccc(cc1)C(=O)O
+64 [O-]C(=O)c1ccncc1
+65 [O-]C(=O)C([NH])C n1ccc(cc1)C=Cc1ccncc1
+66 [O-]C(=O)C([NH])C n1ccc(cc1)C=Cc1ccncc1
+67 [N]1C=NN=C1
+68 [O-]C(=O)c1cc(OCc2ccc(cc2)c2ccc(cc2)COc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+69 [O-]C(=O)c1cc(OCc2ccc(cc2)c2ccc(cc2)COc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+70 [O-]C(=O)c1cncc(c1)C(=O)[O-]
+71 C1=N[CH]N([N]1)Cc1cc(CN2[CH]N=C[N]2)cc(c1)Cn1cncn1 N1=C[N]N([CH]1)Cc1cc(CN2[N]C=N[CH]2)cc(c1)CN1[N]C=N[CH]1
+72 c1ncn(c1)c1ccc(cc1)N(c1ccc(cc1)n1cncc1)c1ccc(cc1)n1cncc1
+73 [O-]C(=O)c1cc(cc(c1)c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+74 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+75 [O-]C(=O)c1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)c1ccc(cc1)C(=O)[O-]
+76 [O-]C(=O)c1c(C)c(C)c(c(c1C)C)C(=O)[O-]
+77 NCCCCCCN [CH2]Oc1c2Sc3cc(cc(c3OCC(=O)[O-])Sc3cc(cc(Sc4c(c(Sc1cc(c2)C(C)(C)C)cc(c4)C(C)(C)C)OCC(=O)[O-])c3OCC(=O)[O-])C(C)(C)C)C(C)(C)C [O-]C(=O)COc1c2Sc3cc(cc(c3OCC(=O)[O-])Sc3cc(cc(Sc4c(c(Sc1cc(c2)C(C)(C)C)cc(c4)C(C)(C)C)OCC(=O)[O-])c3OCC(=O)[O-])C(C)(C)C)C(C)(C)C [O-][C]=O
+78 [O-]C(=O)c1cc(OCOc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+79 [O-]C(=O)CN(CC(=O)[O-])CCN(CC(=O)[O-])CC(=O)[O-]
+80 C1N2CN3CN1CN(C2)C3
+81 N1=NN=C([N]1)c1ccc(cc1)C1=NN=N[N]1 N1=NN[C](N1)c1ccc(cc1)[C]1NN=NN1
+82 [O-]C(=O)c1cc(cc(c1)c1ccncc1)C(=O)[O-]
+83 [O-]C(=O)c1cc(cc(c1)c1ccncc1)C(=O)[O-]
+84 [O-]C(=O)COCC(=O)[O-]
+85 CN1c2cncc(n2)N(C)c2cncc(n2)N(c2nc(N(c3nc1cnc3)C)cnc2)C
+86 O=C(c1ccncc1)OCC(COC(=O)c1ccncc1)(COC(=O)c1ccncc1)COC(=O)c1ccncc1
+87 [O]P(=O)(CP(=O)([O])[O])[O]
+88 [O-]C(=O)C1=NN=C([CH]1)C(=O)[O-] [O-]C(=O)C1=N[N]C(=C1)C(=O)[O-]
+89 N1=NN=C([N]1)c1ccc2c(c1)ccc(c2)C1=NN=N[N]1
+90 [O]P(=O)([O])[O]
+91 CC(C1=Nc2c([N]1)ccc(c2)C(=O)[O-])O
+92 CC(C(=O)[O-])NCc1ccncc1
+93 CC(C(=O)[O-])NCc1ccncc1
+94 CC(C(=O)[O-])NCc1ccncc1
+95 CC(C(=O)[O-])NCc1ccncc1
+96 CC(C(=O)[O-])[N]Cc1ccncc1
+97 CC(C(=O)[O-])[N]Cc1ccncc1
+98 CC(C(=O)[O-])NCc1ccncc1
+99 CC(C(=O)[O-])NCc1ccncc1
+100 CC(C(C(=O)[O-])NCc1ccncc1)C
+101 CC(C(C(=O)[O-])[N]Cc1ccncc1)C
+102 [O-]C(=O)c1ccc(cc1)c1cncc(c1)c1ccc(cc1)C(=O)[O-]
+103 [O-]C(=O)c1ccc(cc1)c1cc(cc(n1)c1ccc(cc1)C(=O)[O-])c1ccncc1
+104 Cc1[nH][n-]c(c1Cc1cccc(n1)Cc1c(C)[n-][nH]c1C)C [C]#N
+105 Cc1[nH][n-]c(c1Cc1cccc(n1)Cc1c(C)[n-][nH]c1C)C [C]#N
+106 Cc1[nH][n-]c(c1Cc1cccc(n1)Cc1c(C)[n-][nH]c1C)C [C]#N
+107 Cc1[nH][n-]c(c1Cc1cccc(n1)Cc1c(C)[n-][nH]c1C)C [C]#N
+108 
+109 [O-]C(=O)c1ccc(cc1)[C]=Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+110 [O-]C(=O)c1ccc(cc1)[C]=Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+111 [O-]C(=O)c1ccc(cc1)C=Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+112 [O-]C(=O)c1ccc(cc1)[CH][N]c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+113 [O-]C(=O)c1ccc(cc1)C=Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+114 [O-]C(=O)c1ccc(cc1)C=Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+115 
+116 [O-]C(=O)c1cncc(c1)OCc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+117 [O-]C(=O)C1=C[C]=CC(=C1)C(=O)[O-]
+118 NC1=C2N=CN=C2[N]C=N1
+119 [O]S(CCS([O])([O])[O])([O])[O]
+120 N1=NC=C([CH]1)c1ccc(cc1)C1=CN=N[CH]1 [N]1N=CC(=C1)c1ccc(cc1)C1=CN=N[CH]1
+121 N1=NC2=C[CH]C(=CC2=N1)c1ccc2c(c1)[N]N=N2 N1=NC2=C[C](C=CC2=N1)c1ccc2c(c1)N=N[N]2 N1=N[C]2C(=N1)C=CC(=C2)[C]1C=CC2=NN=NC2=C1
+122 n1ccc(cc1)c1ccncc1
+123 [O-]C(=O)C12CC3(CC(C2)(CC(C1)(C3)C(=O)[O-])C(=O)[O-])C(=O)[O-]
+124 [O-]C(=O)C12CC3(CC(C2)(CC(C1)(C3)C(=O)[O-])C(=O)[O-])C(=O)[O-]
+125 N#C[N]C#N
+126 N1=NN=C([N]1)c1nccnc1C1=NN=N[N]1
+127 [O-]C(=O)c1ccncc1
+128 [O-]C(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)[O-])(c1ccc(cc1)C(=O)[O-])C
+129 [O-]C(=O)c1ccc(cc1)C(=O)[O-] c1ncn(c1)c1ccc(cc1)n1cncc1
+130 OC1C(O)CC(CC1O)(O)C(=O)[O-]
+131 [O-]C(=O)C1CCN(CC1)CP(=O)([O])[O]
+132 [O-]C(=O)C1CCN(CC1)CP(=O)([O])[O]
+133 [O-]C(=O)c1cncc(c1)C(=O)[O-]
+134 [O-]C(=O)c1cc2[nH]cnc2cc1C(=O)[O-] n1ccc(cc1)[C]1N[N]C(=N1)c1ccncc1
+135 N#CC(C(c1ccc(cc1)[C](C#N)C#N)(C#N)C#N)(c1ccc(cc1)[C](C#N)C#N)C#N n1ccc(cc1)c1ccncc1
+136 n1ccc(cc1)C1=NN=C([N]1)c1ccccn1
+137 n1ccc(cc1)C1=NN=C([N]1)c1ccccn1
+138 n1ccc(cc1)C1=NN=C([N]1)c1ccccn1
+139 [O-]C(=O)c1nccnc1C(=O)[O-] n1ccc(cc1)c1ccncc1
+140 [O-]C(=O)c1nccnc1C(=O)[O-] n1ccc(cc1)C1=N[N]C(=N[N]1)c1ccncc1
+141 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+142 [O-]C(=O)c1cc(O)c(cc1O)C(=O)[O-]
+143 [O-]C(=O)C1=[C]C(=C([C]=C1O)C(=O)[O-])O [O-]C(=O)c1cc(O)c(cc1O)C(=O)[O-] [O-]C(=O)c1cc([O])c(cc1[O])C(=O)[O-]
+144 [O-]C(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)[O-])(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+145 [O-]C(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+146 [O]P(=O)([C]N([C]P(=O)([O])[O])[C][C][C][C][C]=[C]N([C]P(=O)([O])[O])[C]P(=O)([O])[O])[O]
+147 n1ccc(cc1)c1nnc(o1)c1ccncc1
+148 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)N(c1ccc(cc1)c1ccc(cc1)C(=O)[O-])c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+149 [O-]C(=O)C1=CC(=O)C(=CC1=O)C(=O)[O-]
+150 [O-]C(=O)c1cc([O])c(cc1[O])C(=O)[O-]
+151 [O-]C(=O)[C]1[CH]C(=O)[C]([CH]C1=O)C(=O)[O-]
+152 [O-]C(=O)c1cc([O])c(cc1[O])C(=O)[O-]
+153 [O-]C(=O)[C]1[CH]C(=O)[C]([CH]C1=O)C(=O)[O-]
+154 [O-]C(=O)C1=CC(=O)C(=CC1=O)C(=O)[O-]
+155 [O-]C(=O)c1ccncc1
+156 [CH]1C=NN=N1 [N]1C=CN=N1
+157 N1=CC=N[N]1 [CH]1C=NN=N1 [N]1C=CN=N1
+158 O(CCC1=NN=N[N]1)CCC1=N[N]N=N1
+159 O(CCC1=NN=N[N]1)CCC1=NN=N[N]1
+160 O(CCC1=NN=N[N]1)CCC1=N[N]N=N1
+161 O(CCC1=NN=N[N]1)CCC1=NN=N[N]1
+162 [O-]C(=O)c1cc2c(c(c1)S([O])([O])[O])cc(cc2S([O])([O])[O])C(=O)[O-]
+163 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+164 n1ccc(cc1)C1=C2C=CC(=C(c3ccncc3)C3=NC(=C(C4=CC=C(C(=C5N=C1C=C5)c1ccncc1)[N]4)c1ccncc1)C=C3)[N]2
+165 n1ccc(cc1)C1=C2C=CC3=[N]2[Cu]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccncc2)cc1)c1ccncc1)c1ccncc1
+166 
+167 [O]P(=O)(C[N]CP(=O)([O])[O])[O]
+168 [O-]C(=O)c1cc(cc(c1)N(=O)=O)C(=O)[O-]
+169 CC1=NC=C[N]1 CC1=N[CH]C=N1
+170 [O-]C(=O)CCC(P(=O)([O])O)(C(=O)O)CC(=O)O.[O-]C(=O)CCC(P(=O)(O)[O])(C(=O)O)CC(=O)O
+171 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+172 [O-]C(=O)C1CCC(CC1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+173 [O-]C(=O)c1cccc(c1)C(=O)[O-]
+174 O=C(c1ccc(cc1)C(=O)Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-])Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+175 [O]P(=O)(Cc1ccc(cc1)CP(=O)([O])[O])[O]
+176 [O-]C(=O)CCC(=O)[O-]
+177 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)N(c1ccc(cc1)c1ccc(cc1)C(=O)[O-])c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+178 [O-]C(=O)CCCCC(=O)[O-]
+179 [O-]C(=O)CCCCCCC(=O)[O-]
+180 [O-]C(=O)c1ccncc1
+181 Fc1c(c2c(F)c(F)c(c(c2F)F)C2=NN=N[N]2)c(F)c(c(c1F)C1=NN=N[N]1)F
+182 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+183 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+184 [O-]C(=O)c1cccc(c1)C(=O)[O-]
+185 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+186 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+187 
+188 
+189 [O-]C(=O)c1ccnc(c1)C(=O)[O-]
+190 N#Cc1c(nc(c(c1c1ccc(cc1)C(=O)[O-])C#N)c1ccncc1)c1ccncc1
+191 [O-]C(=O)c1ccnc(c1)C(=O)[O-]
+192 [O-]C(=O)c1cc([O])c(cc1[O])C(=O)[O-]
+193 N1=C[C](C=N1)c1ccc2c(c1)ccc(c2)C1=C[N]N=C1
+194 [O-]C(=O)C(=O)[O-] [O-]C(=O)C=CC(=O)[O-]
+195 [O-]C(=O)C(=O)[O-] [O-]C(=O)C=CC(=O)[O-]
+196 
+197 
+198 O=C1N(c2cccc3c2C=C[CH][N]3)C(=O)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1cccc2c1cccn2 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+199 N1=C[C](C=N1)c1ccc(cc1)[C]1[C]=NN=[C]1 [N]1N=CC(=C1)c1ccc(cc1)C1=[C][N]N=[C]1 [N]1N=[C]C(=[C]1)c1ccc(cc1)C1=CN=N[CH]1
+200 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+201 [O-]C(=O)C1CC(CC(C1)C(=O)[O-])C(=O)[O-]
+202 [O-]C(=O)C1CC(CC(C1)C(=O)[O-])C(=O)[O-]
+203 [O-]C(=O)C1CC(CC(C1)C(=O)[O-])C(=O)[O-]
+204 [O-]C(=O)C1CC(CC(C1)C(=O)[O-])C(=O)[O-]
+205 [C]#N
+206 n1ccc(cc1)c1ccncc1
+207 [S]C#N n1ccc(cc1)c1ccncc1
+208 
+209 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+210 C1=C[N]C=N1 C1=N[CH]C=N1
+211 [O-]C(=O)CN(C1=NC(=[N]=C([N]1)N(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-]
+212 [O]P(=O)(CN1CCN(CC1)CP(=O)([O])[O])[O] [O]P(=O)(C[NH]1CC[NH](CC1)CP(=O)([O])[O])[O]
+213 [O]P(=O)(CN1CCN(CC1)CP(=O)([O])[O])[O]
+214 CC1=N[N]C(=N1)C
+215 [CH2]C1=NN=C([N]1)C
+216 O=C1N(c2ccncc2)C(=O)c2c1cc(cc2)C(=O)[O-]
+217 [O-]C(=O)C=Cc1ccc(cc1)C=CC(=O)[O-]
+218 
+219 
+220 [O-]C(=O)c1cc([O])c(cc1[O])C(=O)[O-]
+221 [O-]C(=O)c1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)c1ccc(cc1)C(=O)[O-]
+222 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])COc1ccc(cc1)C(=O)[O-]
+223 c1ncn(c1)c1cc(cc(c1)n1cncc1)n1cncc1
+224 c1ncn(c1)c1cc(cc(c1)n1cncc1)n1cncc1
+225 
+226 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+227 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+228 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+229 [O-]C(=O)c1ccc(cc1)P(=O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] [O-]C=O
+230 [O-]C(=O)c1ccc(cc1)P(=O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] [O-]C=O
+231 [O-]C(=O)c1ccc(cc1)P(=O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] [O-]C=O
+232 [O-]C(=O)c1ccc(cc1)P(=O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] [O-]C=O
+233 [O-]C(=O)c1ccc(cc1)P(=O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] [O-]C=O
+234 [O-]C(=O)c1ccc(cc1)P(=O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] [O-]C=O
+235 [O-]C(=O)c1ccc(cc1)P(=O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] [O-]C=O
+236 [O-]C(=O)c1ccc(cc1)P(=O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] [O-]C=O
+237 [O-]C(=O)c1ccc(cc1)P(=O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] [O-]C=O
+238 CCCc1nc(c([nH]1)C(=O)[O-])C(=O)[O-] [O-]C(=O)C(=O)[O-] [O-]C=O
+239 [O-]C(=O)CC(C(=O)[O-])[O] n1ccc(cc1)[N][N]c1ccncc1
+240 [O-]C(=O)CC(C(=O)[O-])[O] n1ccc(cc1)[N][N]c1ccncc1
+241 [O-]C(=O)CC(C(=O)[O-])[O] n1ccc(cc1)C=Cc1ccncc1
+242 [O-]C(=O)CC(C(=O)[O-])[O] n1ccc(cc1)C=Cc1ccncc1
+243 [O-]C(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+244 [O-]C(=O)C1=C([N]C(=N1)CN1[CH]N=C[N]1)C(=O)[O-] [O-]C(=O)C1=NC(=N[C]1C(=O)[O-])CN1[N]C=N[CH]1
+245 N1=NN=C([N]1)c1ccc(cc1)C1=NN=N[N]1 [O-]C(=O)C(=O)[O-]
+246 N1=NN=C([N]1)c1ccc(cc1)C1=NN=N[N]1 [O-]C(=O)C(=O)[O-]
+247 N1=NN=C([N]1)c1ccc(cc1)C1=NN=N[N]1 [N]1N=NC(=N1)c1ccc(cc1)C1=NN=N[N]1 [O-]C(=O)C(=O)[O-]
+248 N1=NN=C([N]1)c1ccc(cc1)C1=NN=N[N]1 [O-]C(=O)C(=O)[O-]
+249 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+250 C1=C[N]C=N1 C1=N[CH]C=N1
+251 [O-]C(=O)CCP(=O)([O])[O]
+252 n1ccc(cc1)C1=NN=N[N]1
+253 [O-]C(=O)c1cnccc1C(=O)[O-]
+254 c1ncn(c1)[B](n1cncc1)(n1cncc1)n1cncc1
+255 c1ncn(c1)[B](n1cncc1)(n1cncc1)n1cncc1
+256 [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+257 [O-]C(=O)C=Cc1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+258 [O-]C(=O)c1cnccc1C(=O)[O-]
+259 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+260 [CH]1[CH]N=C(N=C1)C1=N[CH][CH]C=N1 [O-]C(=O)CCC(=O)[O-] c1cnc(nc1)c1ncccn1
+261 [O-]C(=O)COc1cccc(c1)OCC(=O)[O-] n1ccc(cc1)c1ccncc1
+262 NCCCCCCN [C]#N
+263 n1ccc(cc1)C=Cc1ccncc1
+264 n1ccc(cc1)C=Cc1ccncc1
+265 [O-]C(=O)c1c(Br)c(Br)c(c(c1Br)Br)C(=O)[O-] c1ncn(c1)c1cc(cc(c1)n1cncc1)n1cncc1
+266 [O-]C(=O)c1cccc(c1)c1cncc(c1)C(=O)[O-]
+267 c1ccc(nc1)C1=[N]=C(N=N1)C1=NN=C[N]1 c1ccc(nc1)C1=[N]=C(N=N1)C1=[N]=CN=N1
+268 [O-]C(=O)C1CCN(CC1)C1=NC(=[N]=C([N]1)N1CCC(CC1)C(=O)[O-])N1CCC(CC1)C(=O)[O-]
+269 [O-]C(=O)C1CCN(CC1)C1=NC(=[N]=C([N]1)N1CCC(CC1)C(=O)[O-])N1CCC(CC1)C(=O)[O-]
+270 [O-]C(=O)c1ccc(cc1)c1ccncc1
+271 [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-] n1ccc(cc1)C=Cc1ccncc1
+272 [O-]C(=O)c1ccnc(c1)C(=O)[O-]
+273 [O-]C(=O)c1cccc(c1)C(=O)O [O-]C(=O)c1cccc(c1)C(=O)[O-] n1ccc(cc1)CCc1ccncc1
+274 [C]#N
+275 [C]#N
+276 [C]#N
+277 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+278 [O-]C(=O)C1CCC(C1(C)C)(C)C(=O)[O-]
+279 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+280 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+281 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+282 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+283 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+284 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+285 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+286 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+287 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+288 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+289 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+290 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+291 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+292 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+293 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+294 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+295 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+296 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+297 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+298 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+299 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+300 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+301 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+302 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+303 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+304 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+305 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+306 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+307 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+308 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+309 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+310 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+311 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+312 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+313 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+314 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+315 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+316 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+317 [O-]C(=O)C1CCC(C1(C)C)(C)C(=O)[O-]
+318 NCCC[C]N [C]#N
+319 [O-]C(=O)c1ccc(c(c1)C(=O)[O-])[O] [O-]C=O
+320 N1=C[N]N([CH]1)Cc1ccc(cc1)CN1[N]C=N[CH]1
+321 FC(S([O])([O])[O])(F)F
+322 [O-]C(=O)C[NH]1CCCN(CC[NH](CCCN(CC1)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-]
+323 O=C(c1ccncc1)Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+324 [C]#N
+325 O=C(c1cncc(c1)C(=O)Nc1cccnc1)Nc1cccnc1 [S]C#N
+326 O=C(c1ccncc1)[N]c1ccncc1 [C]#N
+327 [C]#N
+328 [O-]C(=O)c1nccnc1C(=O)[O-] n1ccc(cc1)[N][N]c1ccncc1
+329 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+330 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+331 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+332 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+333 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+334 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+335 [O-]C(=O)C [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+336 CC(=O)[CH]C(=O)c1ccc(cc1)c1ccncc1
+337 [O-]C(=O)C1CCC(CC1)C(=O)[O-]
+338 [O-]C(=O)C1CCC(CC1)C(=O)[O-]
+339 [O-]C(=O)c1ccncc1
+340 [O-]C(=O)c1ccncc1
+341 [N]1N=NC(=N1)c1cc(cc(c1)C1=NN=N[N]1)C1=NN=N[N]1 [N]1N=NC(=N1)c1cc(cc(c1)C1=N[N]N=N1)C1=N[N]N=N1
+342 CC(P(=O)([O])[O])(P(=O)([O])[O])O
+343 CC(P(=O)([O])[O])(P(=O)([O])[O])O
+344 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+345 [O-]C=O
+346 [O-]C=O
+347 [O-]C=O
+348 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+349 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+350 [C]#N
+351 [C]#N
+352 [C]#N
+353 [C]#N
+354 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+355 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+356 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+357 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+358 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+359 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-] c1cnc(cn1)C1=NN=N[N]1
+360 [O-]C(=O)c1cccc(c1)C(=O)[O-] [O]N(=O)=O
+361 Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+362 [O-]C(=O)c1cc(cc(c1)C(C)(C)C)C(=O)[O-]
+363 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+364 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+365 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+366 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+367 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+368 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+369 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+370 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+371 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+372 [O-]C(=O)c1ccc2-c3c(S(=O)(=O)c2c1)cc(cc3)C(=O)[O-] n1ccc(cc1)c1ccncc1
+373 C(Cn1cncc1)CCn1cncc1 [O-]C(=O)c1ccc2-c3c(S(=O)(=O)c2c1)cc(cc3)C(=O)[O-]
+374 O=C1NCCN1 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+375 O=C1NCCN1 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+376 [O-]C(=O)c1ccc(cc1)C(=O)[O-] [O]CC[O]
+377 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+378 [O-]C(=O)C1=[C]C(=C([C]=C1[O])C(=O)[O-])[O] [O-]C(=O)c1cc([O])c(cc1[O])C(=O)[O-]
+379 [O-]C(=O)C1=[C]C(=C([C]=C1O)C(=O)[O-])O [O-]C(=O)c1cc(O)c(cc1O)C(=O)[O-]
+380 [O-]C(=O)C1=[C]C(=C([C]=C1[O])C(=O)[O-])[O] [O-]C(=O)c1cc(O)c(cc1O)C(=O)[O-]
+381 [O-]C(=O)c1cc(O)c(cc1O)C(=O)[O-]
+382 O=C(c1cc(O)c(cc1O)C(=O)[O-])OOC(=O)c1cc(O)c(cc1O)C(=O)[O-] [O-]C(=O)c1cc(O)c(cc1O)C(=O)[O-]
+383 [O-]C(=O)c1cc(O)c(cc1O)C(=O)[O-]
+384 [O-]C(=O)c1cc(O)c(cc1O)C(=O)[O-]
+385 Nc1cc(ccc1Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-])C(=O)[O-]
+386 Nc1cc(ccc1Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-])C(=O)[O-]
+387 Nc1cc(ccc1Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-])C(=O)[O-]
+388 n1ccc(cc1)c1nnc(nn1)c1ccncc1
+389 [O-]C(=O)c1cc(cc(c1)n1cnnn1)C(=O)[O-]
+390 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+391 [O-]C(=O)c1sc2c(c1)cc1c(c2)sc(c1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+392 [O-]C(=O)c1cccc(c1c1c(cccc1C(=O)[O-])C(=O)[O-])C(=O)[O-] n1ccc(cc1)C1=NC(=[N]=C([N]1)c1ccncc1)c1ccncc1
+393 [O-]C(=O)c1ccc(cc1)n1ccnc1C
+394 [O-]C(=O)c1ccc(cc1)n1ccnc1C
+395 [O-]C(=O)c1ccc(cc1)n1ccnc1C
+396 C(Cc1ccncc1)Cc1ccncc1 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+397 [O-]C(=O)C1=CC=c2c(=[C]1)ccc(c2)C(=O)[O-] [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+398 C1=N[N]C=N1 [N]1C=NN=C1
+399 
+400 
+401 [O-]C(=O)CCCC(=O)[O-]
+402 C1N2CN3CN1CN(C2)C3 [O]S(CCN1CCN(CC1)CCS([O])([O])[O])([O])[O]
+403 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)O)(COc1ccc(cc1)C(=O)[O-])COc1ccc(cc1)C(=O)[O-]
+404 [O-]C(=O)c1cc(ccc1C(=O)[O-])C(=O)[O-]
+405 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+406 N#C[C](c1ccc(cc1)[C](C#N)C#N)C#N
+407 N#C[C](c1ccc(cc1)[C](C#N)C#N)C#N
+408 N#C[C](c1ccc(cc1)[C](C#N)C#N)C#N
+409 CC(C(=O)[O-])NC(C(=O)[O-])C
+410 CC(C(=O)[O-])NC(C(=O)[O-])C
+411 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+412 [O-]C(=O)c1cc(OCc2ccc(cc2)COc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+413 [O-]C(=O)c1ccc(cc1)n1c(C)nnc1c1cccc(c1)c1nnc(n1c1ccc(cc1)C(=O)[O-])C
+414 Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+415 Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+416 Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+417 Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+418 [O-]C(=O)CCCC(=O)[O-]
+419 Cc1nc(c([nH]1)C(=O)[O-])C(=O)[O-] [O-]C(=O)C(=O)[O-]
+420 Cc1nc(c([nH]1)C(=O)[O-])C(=O)[O-] [O-]C(=O)C(=O)[O-]
+421 Cc1nc(c([nH]1)C(=O)[O-])C(=O)[O-] [O-]C(=O)C(=O)[O-]
+422 C(Cc1ccncc1)Cc1ccncc1 O=C(c1cc(cc(c1)C(=O)NCC(=O)[O-])C(=O)NCC(=O)[O-])NCC(=O)[O-]
+423 [O-]C(=O)c1cc(OCC(COc2cc(cc(c2)C(=O)[O-])C(=O)[O-])(COc2cc(cc(c2)C(=O)[O-])C(=O)[O-])COc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+424 [N][N][N] [O-]C(=O)c1cccnc1
+425 Cc1nnc(s1)SCC=CCSc1nnc(s1)C
+426 [O-]C(=O)c1cccc(n1)C(=O)[O-]
+427 Clc1ccc2c(c1)c(cc(c2c1c(OCc2ccccc2)cc(c2=C[C]=CC=c12)c1ccc(cc1)C(=O)[O-])OCc1ccccc1)c1ccc(cc1)C(=O)[O-] Clc1ccc2c(c1)c(cc(c2c1c(OCc2ccccc2)cc(c2c1C=C[C]=C2)c1ccc(cc1)C(=O)[O-])OCc1ccccc1)c1ccc(cc1)C(=O)[O-]
+428 [O-]C(=O)c1ccc(cc1)C(=O)[O-] [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+429 [O-]C(=O)c1ncc(nc1)C(=O)[O-]
+430 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+431 [O-]C(=O)c1ccc(nc1)c1ccc(cn1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+432 C1CN2CCN1CC2 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+433 [S]C#N
+434 C[C]1N=NC(=C1c1ccc(cc1)C(=O)[O-])C [O-]C(=O)c1ccc(cc1)C1=C(C)[N]N=C1C [O-]C(=O)c1ccc(cc1)[C]1C(=NN=C1C)C
+435 COc1cc(ccc1c1ccc(cc1OC)C(=O)[O-])C(=O)[O-]
+436 CN(=O)=O
+437 [O-]C(=O)c1cccc(c1)C1=N[N]C(=N[N]1)c1cccc(c1)C(=O)[O-] [O-]C(=O)c1cccc(c1)c1nnc(nn1)c1cccc(c1)C(=O)[O-]
+438 [O-]C(=O)c1ccncc1
+439 [O-]C(=O)c1ccc(cc1)c1cncc(c1)C(=O)[O-]
+440 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+441 [O-]C(=O)CCCCC(=O)[O-]
+442 [O-]C(=O)c1cccc(c1)C(=O)[O-] [O]N(=O)=O
+443 [O-]C=O n1ccc(cc1)c1ccncc1
+444 NC1=NN=C[N]1 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+445 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccncc1
+446 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+447 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+448 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+449 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+450 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+451 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+452 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+453 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+454 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+455 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+456 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+457 n1ccc(cc1)C1=NN=N[N]1 n1ccc(cc1)C1=N[N]N=N1
+458 n1ccc(cc1)C1=NN=N[N]1
+459 
+460 
+461 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+462 [O-]C=O
+463 [O-]C=O
+464 [O-]C(=O)C(=O)[O-]
+465 [O-]C(=O)C(=O)[O-]
+466 [O-]C(=O)C(=O)[O-]
+467 [S]C#N
+468 [O-]C(=O)CC(=O)[O-]
+469 n1ccncc1
+470 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+471 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+472 [CH]1[N]C=C[C]([CH]1)c1ccncc1 [O-]C(=O)c1ccc(cc1)c1cc(c2ccc(cc2)C(=O)[O-])c(cc1c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+473 [O-]C(=O)c1ccc(cc1)c1c(Br)c(c2ccc(cc2)C(=O)[O-])c(c(c1c1ccc(cc1)C(=O)[O-])Br)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+474 [O-]C(=O)c1ccc(cc1)c1cc(c2ccc(cc2)C(=O)[O-])c(cc1c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] n1ccc(cc1)[N][N]c1ccncc1
+475 [O-]C(=O)c1ccc(cc1)c1c(Br)c(c2ccc(cc2)C(=O)[O-])c(c(c1c1ccc(cc1)C(=O)[O-])Br)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)[N][N]c1ccncc1
+476 [O-]C(=O)c1ccc(cc1)c1cc(c2ccc(cc2)C(=O)[O-])c(cc1c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1nnc(nn1)c1ccncc1
+477 [O-]C(=O)c1ccc(cc1)c1c(Br)c(c2ccc(cc2)C(=O)[O-])c(c(c1c1ccc(cc1)C(=O)[O-])Br)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)C1=N[N]C(=N[N]1)c1ccncc1
+478 n1ccc(cc1)C1=N[N]N=N1
+479 
+480 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+481 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])c1c2ccccc2c(c2c1cccc2)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+482 [O-]C(=O)C12c3ccccc3C(c3c1cccc3)(c1c2cccc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+483 [O-]C(=O)CN(C1=NC(=[N]=C([N]1)N(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-]
+484 N1=NN=C([N]1)C1=NC=N[C]1C1=NN=N[N]1
+485 NC1=NN=N[N]1 [O]S(=O)(=O)[O]
+486 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-] [O]C(c1ccccc1)C(=O)[O-]
+487 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-] [O]C(c1ccccc1)C(=O)[O-]
+488 [O-]C(=O)COCC(=O)[O-]
+489 [O-]C(=O)C1CCN(CC1)CP(=O)([O])[O]
+490 [O-]C(=O)C1CCN(CC1)CP(=O)([O])[O]
+491 [O-]C(=O)C1CCN(CC1)CP(=O)([O])[O]
+492 [O-]C(=O)C1CCN(CC1)CP(=O)([O])[O]
+493 [O-]C(=O)C1CCN(CC1)CP(=O)([O])[O]
+494 [O-]C(=O)C1CCN(CC1)CP(=O)([O])[O]
+495 [O-]C(=O)c1ccc(nc1)c1ccncc1
+496 [O-]C(=O)c1ccc(nc1)c1ccncc1
+497 [O-]C(=O)c1ccc(nc1)c1ccncc1
+498 [C]#N [C]#[C]
+499 [O-]C(=O)c1cccc(c1)c1ccncc1
+500 [O-]C(=O)c1ccc(cc1)c1ccncc1
+501 [O-]C(=O)c1cc2[nH]cnc2cc1C(=O)[O-] n1ccc(cc1)[C]1N[N]C(=N1)c1ccncc1
+502 N1=NC=C([CH]1)C1=CN=N[CH]1
+503 N1=NC=C([CH]1)C1=CN=N[CH]1 N1=NC=C([CH]1)C1=C[N]N=C1
+504 N1=C[C](C=N1)C1=C[N]N=C1
+505 [O-]C(=O)c1cccc(c1)C(=O)[O-] [O]S(=O)(=O)[O]
+506 [O-]C(=O)c1cccc(c1)C(=O)[O-] [O]S(=O)(=O)[O]
+507 [O-]C(=O)c1ccc(cc1)[CH][N]c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+508 [O-]C(=O)c1ccc(cc1)[CH][N]c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+509 [O-]C(=O)c1ccc(cc1)C=Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+510 [O-]C(=O)c1ccc(cc1)[CH][N]c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+511 [O-]C(=O)c1ccc(cc1)C=Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+512 [O-]C(=O)c1ccc(cc1)C=Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+513 [O-]C(=O)c1ccc(cc1)C=Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+514 [O-]C(=O)c1ccc(cc1)C=Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+515 [O-]C(=O)c1ccc(cc1)C=Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+516 [O-]C(=O)c1ccc(cc1)[CH][N]c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+517 [O-]C(=O)c1ccc(cc1)P(=O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] [O-]C=O
+518 CC(C(=O)[O-])NC(=O)c1cc(cc(c1)C(=O)NC(C(=O)[O-])C)C(=O)NC(C(=O)[O-])C n1ccc(cc1)c1ccncc1
+519 [O-]C(=O)COCC(=O)[O-]
+520 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])[Si](c1cc(cc(c1)C(=O)[O-])C(=O)[O-])(c1cc(cc(c1)C(=O)[O-])C(=O)[O-])c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+521 COc1cc2c(c3ccc(cc3)C(=O)[O-])c3cc(OC)c(cc3c(c2cc1OC)c1ccc(cc1)C(=O)[O-])OC
+522 [O-]C(=O)c1ccc(cc1)c1ccccc1C(=O)[O-] n1ccc(cc1)CCc1ccncc1
+523 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+524 [O-]C(=O)c1cccc(c1)C(=O)[O-]
+525 [C]#N [NH][CH][CH]CC[CH][CH][NH]
+526 NCCCCCCN [C]#N
+527 [O-]C(=O)c1ccncc1 [O]S(=O)(=O)[O]
+528 CCOc1cc(C2=CC(=[C]C(=C2)C(=O)[O-])C(=O)[O-])c2c(c1c1c(OCC)cc(c3c1ccc(c3)Cl)c1cc(cc(c1)C(=O)[O-])C(=O)[O-])ccc(c2)Cl
+529 CC(P(=O)([O])[O])(P(=O)([O])[O])O
+530 CC(P(=O)([O])[O])(P(=O)([O])[O])O
+531 CC(P(=O)([O])[O])(P(=O)([O])[O])O
+532 CC(P(=O)([O])[O])(P(=O)([O])[O])O
+533 CC(P(=O)([O])[O])(P(=O)([O])[O])O
+534 CC(P(=O)([O])[O])(P(=O)([O])[O])O
+535 CC(P(=O)([O])[O])(P(=O)([O])[O])O
+536 CC(P(=O)([O])[O])(P(=O)([O])[O])O
+537 CCc1cnc(c(c1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)C=Cc1ccncc1
+538 O=N(=O)C1=NC=C[N]1 O=N(=O)C1=N[CH]C=N1
+539 O=N(=O)C1=NC=C[N]1
+540 OCC1=NN=C([N]1)CO
+541 [O-]C(=O)c1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)c1ccc(cc1)C(=O)[O-]
+542 C(Cc1ccncc1)Cc1ccncc1 N#N [C]#[C]
+543 C(Cc1ccncc1)Cc1ccncc1 N#N [C]#[C]
+544 C(Cc1ccncc1)Cc1ccncc1 N#N [C]#[C]
+545 [O-]C(=O)C1CC(CC(C1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+546 [O-]C(=O)C1CC(CC(C1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)C=Cc1ccncc1
+547 [O-]C(=O)[C]1C[C](C[C](C1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)C=Cc1ccncc1
+548 O=C1[CH]C(=O)N=[C](=S)[N]1
+549 [O-]C(=O)C1C(C(=O)[O-])C(C1C(=O)[O-])C(=O)[O-]
+550 [O-]C(=O)CCC(=O)[O-]
+551 [O]P(=O)([O])[O]
+552 [O]P(=O)([O])[O]
+553 [CH]1[N]C=C[C]([CH]1)c1ccncc1 n1ccc(cc1)c1ccncc1
+554 [O-]C(=O)c1cc(ccc1C(=O)[O-])C(C(F)(F)F)(C(F)(F)F)c1ccc(c(c1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+555 n1ccc(cc1)C1=NN=N[N]1 n1ccc(cc1)C1=N[N]N=N1
+556 [O-]C(=O)C(=O)[O-]
+557 C1CN2CCN1CC2
+558 CC1=NC=C[N]1 CC1=N[CH]C=N1 CC1N=CC=N1 CC1[N]C=C[N]1
+559 O=N(=O)C1=NC=C[N]1 O=N(=O)C1=N[CH]C=N1
+560 n1ccc(cc1)c1ccncc1
+561 [O-]C(=O)c1cc(cc(c1)C(C)(C)C)C(=O)[O-] n1ccc(cc1)Sc1ccncc1
+562 [O-]C(=O)c1ccc(s1)c1ccc(s1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+563 [O-]C(=O)c1ccc(s1)c1ccc(s1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+564 [O-]C(=O)c1ccc(s1)c1ccc(s1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+565 [O-]C(=O)c1ccc(s1)c1ccc(s1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+566 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+567 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+568 N1=NC=C([CH]1)C#CC#CC1=CN=N[CH]1 [N]1N=CC(=C1)C#CC#CC1=CN=N[CH]1
+569 [O-]C(=O)c1ccc(cc1)P(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+570 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+571 Cc1[nH][n-]c(c1c1c(C)[n-][nH]c1C)C
+572 Cc1[nH][n-]c(c1c1c(C)[n-][nH]c1C)C
+573 Cc1[nH][n-]c(c1c1c(C)[n-][nH]c1C)C
+574 Cc1[nH][n-]c(c1c1c(C)[n-][nH]c1C)C
+575 Cc1[nH][n-]c(c1c1c(C)[n-][nH]c1C)C
+576 CC1=NN=C([C]1c1c(C)[n-][nH]c1C)C CC1=N[N]C(=C1c1c(C)[n-][nH]c1C)C
+577 O=C(c1ccncc1)Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+578 [O-]C(=O)CNCC(=O)[O-]
+579 [O-]C(=O)CNCC(=O)[O-]
+580 [O-]C(=O)c1c(C(=O)[O-])c(C(=O)[O-])c(c(c1C(=O)[O-])C(=O)[O-])C(=O)[O-]
+581 [O-]C(=O)c1c(C(=O)[O-])c(C(=O)[O-])c(c(c1C(=O)[O-])C(=O)[O-])C(=O)[O-]
+582 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+583 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+584 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+585 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-] [O-]C(=O)c1ccncc1
+586 C[O] Nc1ccncn1
+587 [O-]C(=O)c1ccc(cc1)COc1cc(cc(c1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)CN1CCN(CC1)Cc1ccncc1
+588 
+589 
+590 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+591 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+592 [O-]C(=O)c1c(C(=O)[O-])c(C(=O)[O-])c(c(c1C(=O)[O-])C(=O)[O-])C(=O)[O-]
+593 [O-]C(=O)c1c(C(=O)[O-])c(C(=O)[O-])c(c(c1C(=O)[O-])C(=O)[O-])C(=O)[O-]
+594 [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+595 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+596 [O-]C(=O)c1ccc(cc1)c1cc(nc(c1)c1ccncc1)c1ccncc1
+597 [S]C#N n1ccc(cc1)Nc1ccncc1
+598 [O-]C=O
+599 [O-]C=O
+600 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-] n1ccnc(c1)C1=NN=C([N]1)c1nccnc1
+601 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-] c1cnc(cn1)C1=N[N]C(=N1)c1cnccn1
+602 [O-]C(=O)c1ccc(cc1)c1cc(C)c(cc1C)c1ccc(cc1)C(=O)[O-]
+603 [O-]C(=O)c1ccc(cc1)c1cc(C)c(cc1C)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)CN1CCN(CC1)Cc1ccncc1
+604 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+605 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+606 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+607 [C]#N
+608 C1=C[N]C=N1
+609 C1=C[N]C=N1 C1=N[CH]C=N1
+610 C1=C[N]C=N1 C1=N[CH]C=N1
+611 N1=NC2=C[C](C=CC2=N1)c1ccc2c(c1)N=N[N]2 N1=NC2=C[C](C=CC2=N1)c1ccc2c(c1)[N]N=N2 N1=N[C]2C(=N1)C=CC(=C2)[C]1C=CC2=NN=NC2=C1
+612 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])COc1ccc(cc1)C(=O)[O-] n1ccc(cc1)C=Cc1ccncc1
+613 NC1=N[N]C=N1 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+614 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+615 N#CC(C(c1ccc(cc1)[C](C#N)C#N)(C#N)C#N)(c1ccc(cc1)[C](C#N)C#N)C#N n1ccc(cc1)c1ccncc1
+616 [C]#N [O-][n+]1cc[n+](cc1)[O-]
+617 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+618 [O-]C(=O)c1cc(Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+619 [O-]C(=O)[C][N][C]C(=O)[O-]
+620 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+621 C1N2CN3CN1CN(C2)C3 [O-]C(=O)c1cnccc1C(=O)[O-]
+622 C1N2CN3CN1CN(C2)C3 [O-]C(=O)c1cnccc1C(=O)[O-]
+623 [O-]C(=O)c1cnccc1C(=O)[O-] n1ccc(cc1)c1ccncc1
+624 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+625 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+626 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+627 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+628 [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-]
+629 [O-]C(=O)c1ccc(cc1)c1cc(cc(c1)c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] [O-]C=O
+630 [O-]C(=O)CNCC(=O)[O-]
+631 [O-]C(=O)CNCC(=O)[O-]
+632 CC(C(C(=O)[O-])NCc1ccncc1)C
+633 CC(C(C(=O)[O-])NCc1ccncc1)C
+634 CC(C(C(=O)[O-])NCc1ccncc1)C
+635 CC(C(C(=O)[O-])NCc1ccncc1)C
+636 CC(C(C(=O)[O-])NCc1ccncc1)C
+637 CC(C(C(=O)[O-])NCc1ccncc1)C
+638 Cc1c(CN2[N]C=N[CH]2)c(C)c(c(c1CN1[N]C=N[CH]1)C)CN1[N]C=N[CH]1 [O-]C(=O)c1cc(C(=O)O)c(cc1C(=O)O)C(=O)[O-] [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+639 n1ccc(cc1)OCC(COc1ccncc1)(COc1ccncc1)COc1ccncc1
+640 n1ccc(cc1)C1=NN=N[N]1
+641 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-] c1ncn(c1)c1ccc(cc1)N(c1ccc(cc1)n1cncc1)c1ccc(cc1)n1cncc1
+642 [N][N][N] [O-]C(=O)c1ccc(cc1)c1ccncc1
+643 [O-]C(=O)c1cc(Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+644 N1=NN=C([N]1)c1ccc(cc1)C1=NN=N[N]1
+645 [O-]C(=O)c1ccc(s1)C(=O)[O-] [O]N(=O)=O
+646 [O-]C(=O)CCCCC(=O)[O-]
+647 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+648 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+649 [O-]C(=O)CCCCC(=O)[O-]
+650 [O-]C(=O)c1cc([S])c(cc1[S])C(=O)[O-]
+651 [O-]C(=O)c1ccc(cc1)n1cnc2c1cc1ccccc1c2
+652 [O-]C(=O)c1ccc(cc1)n1cnc2c1cc1ccccc1c2
+653 [O-]C(=O)c1ccc(cc1)n1cnc2c1cc1ccccc1c2
+654 [O-]C(=O)c1ccc(cc1)n1cnc2c1cc1ccccc1c2
+655 [O-]C(=O)c1ccc(cc1)n1cnc2c1cc1ccccc1c2
+656 [O-]C(=O)c1ccc(cc1)n1cnc2c1cc1ccccc1c2
+657 Nc1cccc(c1)C(=O)[O-]
+658 [O-]C(=O)c1c(C)c(C)c(c(c1C)C)C(=O)[O-]
+659 [O-]C(=O)c1c(C)c(C)c(c(c1C)C)C(=O)[O-]
+660 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+661 [O-]C(=O)c1c(C)c(C)c(c(c1C)C)C(=O)[O-]
+662 [O-]C=O
+663 [O-]C=O
+664 [O-]C=O
+665 [O-]C=O
+666 [O-]C(=O)CC(=O)[O-]
+667 [O-]C(=O)CC(=O)[O-]
+668 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1ncc(nc1)C(=O)[O-]
+669 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1ncc(nc1)C(=O)[O-]
+670 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+671 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1ncc(nc1)C(=O)[O-]
+672 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1ncc(nc1)C(=O)[O-]
+673 
+674 
+675 
+676 
+677 N1=C[N]N([CH]1)Cc1ccc(cc1)c1ccc(cc1)CN1[N]C=N[CH]1 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+678 [C]#N
+679 [C]#N
+680 [O-]C(=O)c1ccc(cc1)[N][N]c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+681 C1N2CN3CN1CN(C2)C3 [O]S(c1cccnc1)([O])[O]
+682 C1N2CN3CN1CN(C2)C3
+683 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+684 [O-]C=O
+685 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+686 [O-]C(=O)c1ccc(c2c1CC2)C(=O)[O-]
+687 [O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]
+688 [O-]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Ni]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O-])cc1)c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)O
+689 [O-]C(=O)C(CC(=O)[O-])(CC(=O)[O-])O
+690 [O-]C(=O)c1cc(N=Nc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+691 [O-]C(=O)C1CCC(C1(C)C)(C)C(=O)[O-]
+692 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+693 [N]1CC[N]CC1 [O-]C(=O)C1=C([N]N=N1)C(=O)[O-] [O-]C(=O)C1=NN=N[C]1C(=O)[O-]
+694 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+695 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+696 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+697 [O-]C(=O)C=Cc1ccccn1
+698 [O]S(S([O])([O])[O])([O])[O] n1ccc(cc1)c1ccncc1
+699 n1ccc(cc1)c1ccc(cc1)C(c1ccc(cc1)c1ccncc1)(c1ccc(cc1)c1ccncc1)c1ccc(cc1)c1ccncc1
+700 O=C1NC=NC2=NC=N[C]12
+701 O=C1N[CH]N=C2[C]1N=C[N]2
+702 O=C1N[CH]N=C2[C]1N=C[N]2
+703 [O-]C(=O)c1cc(cc(c1)c1ccncc1)C(=O)[O-]
+704 [O-]C(=O)c1cc(cc(c1)c1cccnc1)C(=O)[O-]
+705 C1Cc2nnc3c4c2c(C1)nnc4CCC3
+706 C1Cc2nnc3c4c2c(C1)nnc4CCC3
+707 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+708 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+709 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+710 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+711 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+712 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+713 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+714 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)NNc1ccncc1
+715 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)NNc1ccncc1
+716 N1=CC=C([C]=C1)NNc1ccncc1 N1=C[C]=C(C=C1)NNc1ccncc1 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+717 O=C(c1cccc(c1)C(=O)Nc1ccncc1)Nc1ccncc1 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+718 C#Cc1cnccc1C=Cc1ccncc1C#C [O-]C(=O)c1ccc(cc1)c1c(Br)c(c2ccc(cc2)C(=O)[O-])c(c(c1c1ccc(cc1)C(=O)[O-])Br)c1ccc(cc1)C(=O)[O-]
+719 [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-] [O-][C]=O
+720 [O-]C(=O)c1ccc(cc1)COc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+721 NC1=C2N=CN=C2[N]C=N1 Nc1ncnc2c1N=C[N]2
+722 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+723 n1ccc(cc1)C1=NN=N[N]1
+724 [O]P(=O)([O])[O]
+725 C1CCSCCCSCCCS1
+726 [O-]C(=O)CNCC(=O)[O-]
+727 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+728 [O-]C(=O)c1ccc(cc1)N(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)N(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+729 [O-]C(=O)c1ccc(cc1)N(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)N(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+730 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+731 
+732 
+733 [O-]C(=O)c1ccc(c(c1)S([O])([O])[O])C(=O)[O-] n1ccc(cc1)c1ccncc1
+734 Oc1cc(c(cc1P(=O)(O)[O])O)P(=O)(O)[O]
+735 [O-]C=O
+736 [O-]C=O
+737 [O-]C(=O)C(=O)[O-]
+738 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+739 [O-]C(=O)C(=O)[O-]
+740 [C]#[C]
+741 [O-]C(=O)c1cc(cc(c1)N(=O)=O)C(=O)[O-]
+742 [O-]C(=O)c1cc(cc(c1)N(=O)=O)C(=O)[O-]
+743 [C]#N
+744 [O-]C(=O)c1cccc(c1)C(=O)[O-] n1ccc(cc1)C1C(c2ccncc2)C(C1c1ccncc1)c1ccncc1
+745 CC1=NC=C[N]1 CC1=NC=[C][N]1 CC1=N[CH]C=N1 CC1=N[C]=C[N]1
+746 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccc(cc1)c1ccncc1
+747 Fc1c(F)c(ccc1c1ccncc1)c1ccncc1 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+748 [O-]C(=O)c1cncc(c1)C(=O)[O-]
+749 [O-]C(=O)c1ccc(cc1)C(=C(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+750 O=c1ccn(cc1)c1cccc(c1C(=O)[O-])C(=O)[O-] c1ncn(c1)Cc1ccc(cc1)Cn1cncc1
+751 [O-]C(=O)C1=C([N]C=N1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+752 [O-]C(=O)C1=C([N]C=N1)C(=O)[O-] [O-]C(=O)C1=NC=N[C]1C(=O)[O-]
+753 [O]P(=O)(Cc1cc(cc(c1)CP(=O)([O])[O])CP(=O)([O])[O])[O]
+754 [O-]C(=O)CCn1c(=O)n(CCC(=O)[O-])c(=O)n(c1=O)CCC(=O)[O-]
+755 [O-]C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[O-]
+756 [O-]C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[O-]
+757 [O-]C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[O-]
+758 [O-]C(=O)c1ccc(cn1)C(=O)[O-]
+759 [O-]C(=O)c1ccnc(c1)C(=O)[O-]
+760 [O-]C(=O)c1cncc(c1)C(=O)[O-]
+761 [C]#N
+762 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)N(c1ccc(cc1)c1ccc(cc1)C(=O)[O-])c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+763 [O-]C(=O)c1cc(C#Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+764 [O-]C(=O)c1cc(C#Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+765 [O-]C(=O)c1ccc(o1)C(=O)[O-]
+766 [O-]C(=O)C1C(C(=O)O)C(C(=O)[O-])C(C(C1C(=O)O)C(=O)[O-])C(=O)O
+767 [O-]C(=O)c1ccncc1
+768 [O-]C(=O)c1ccncc1
+769 [O-]C(=O)CNS(=O)(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+770 Cc1nc(c([nH]1)C(=O)[O-])C(=O)[O-] [O-]C(=O)C(=O)[O-]
+771 [O-]C(=O)c1cc(cc(c1)c1ccncc1)C(=O)[O-]
+772 [O-]C(=O)CCCC(=O)[O-]
+773 C(Cc1ccncc1)Cc1ccncc1 [O-]C(=O)c1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)c1ccc(cc1)C(=O)[O-]
+774 [O-]C(=O)c1cccc(n1)C(=O)[O-]
+775 [O-]C(=O)c1cc(C#Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+776 [C]#N
+777 C1N2CN3CN1CN(C2)C3 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+778 C1N2CN3CN1CN(C2)C3 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+779 [O-]C(=O)C(=O)[O-]
+780 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+781 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+782 CC(C(C(=O)[O-])NCc1ccncc1)O
+783 [O-]C(=O)c1c(C)c(C)c(c(c1C)C)C(=O)[O-]
+784 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+785 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+786 [O-]C(=O)C1CCC(CC1)C(=O)[O-] n1ccc(cc1)c1ccc(s1)c1ccc(s1)c1ccncc1
+787 [O-]C(=O)c1ccc(cc1)c1cc(C)c(cc1C)c1ccc(cc1)C(=O)[O-] c1ncn(c1)c1ccc(cc1)[N][N]c1ccc(cc1)n1cncc1
+788 [O-]C(=O)c1ccc(cc1)c1cc(C)c(cc1C)c1ccc(cc1)C(=O)[O-] c1ncn(c1)c1ccc(cc1)[N][N]c1ccc(cc1)n1cncc1
+789 
+790 [O-]C(=O)c1cc(ccc1C(=O)[O-])C(C(F)(F)F)(C(F)(F)F)c1ccc(c(c1)C(=O)O)C(=O)[O-]
+791 [O-]C(=O)c1cc(ccc1C(=O)[O-])C(C(F)(F)F)(C(F)(F)F)c1ccc(c(c1)C(=O)O)C(=O)[O-]
+792 [O-]C(=O)c1cc(ccc1C(=O)[O-])C(C(F)(F)F)(C(F)(F)F)c1ccc(c(c1)C(=O)[O-])C(=O)[O-]
+793 [O-]C(=O)c1cc(ccc1C(=O)[O-])C(C(F)(F)F)(C(F)(F)F)c1ccc(c(c1)C(=O)[O-])C(=O)[O-]
+794 [O-]C(=O)C=Cc1cccnc1
+795 [O]S(=O)(=O)[O]
+796 [O]S(=O)(=O)[O]
+797 [O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]
+798 [O-]C(=O)CNCC(=O)[O-]
+799 [O-]C(=O)CNCC(=O)[O-]
+800 [O-]C(=O)CNCC(=O)[O-]
+801 [O-]C(=O)CNCC(=O)[O-]
+802 [O-]C(=O)c1ccc(cc1)Nc1c(cc(cc1N(=O)=O)C(=O)[O-])N(=O)=O
+803 [O-]C(=O)c1ccc(cc1)[N][N]c1ccc(cc1)C(=O)[O-]
+804 NCCCCCCCC[CH]N [C]#N
+805 [O-]C(=O)CNCC(=O)[O-]
+806 [O-]C(=O)C1CC(CC(C1)C(=O)[O-])C(=O)[O-]
+807 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-] [O-]C(=O)c1ccc(cc1)Cn1ccnc1c1ccccn1
+808 [O-]C(=O)c1nc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+809 [O-]C(=O)c1cc(cc(c1)S([O])([O])[O])C(=O)[O-]
+810 OC(=O)c1ccc(cc1)C[NH2]CP(=O)([O])[O] [O-]C(=O)c1ccc(cc1)CNCP(=O)([O])[O] [O-]C(=O)c1ccc(cc1)C[NH2]CP(=O)([O])[O]
+811 OC(=O)c1ccc(cc1)C[NH2]CP(=O)([O])[O] [O-]C(=O)c1ccc(cc1)CNCP(=O)([O])[O] [O-]C(=O)c1ccc(cc1)C[NH2]CP(=O)([O])[O]
+812 [N]1C=NN=C1 [O-]C(=O)c1cc(ccc1C(=O)[O-])C(=O)[O-]
+813 N#Cc1ccc(cc1)C(=O)[CH]C(=O)c1ccc(cc1)C#N
+814 N#Cc1ccc(cc1)C(=O)[CH]C(=O)c1ccc(cc1)C#N
+815 N#Cc1ccc(cc1)C(=O)[CH]C(=O)c1ccc(cc1)C#N
+816 [O-]C(=O)c1cccnc1
+817 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+818 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+819 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+820 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+821 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+822 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+823 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+824 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+825 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+826 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+827 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+828 [C]1C[N]CC[N]C1
+829 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+830 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+831 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+832 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+833 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+834 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+835 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+836 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+837 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+838 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+839 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+840 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+841 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+842 [O-]C(=O)CN(C1=NC(=[N]=C([N]1)N(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-]
+843 n1ccc(cc1)N(c1ccncc1)c1ccc(cc1)C#CC#Cc1ccc(cc1)N(c1ccncc1)c1ccncc1
+844 [O-]C(=O)c1cc(cc(c1)c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+845 [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-]
+846 [N]1C=NN=C1 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+847 C1=N[N]C=N1 [N]1=CN=NC=1 [N]1C=NN=C1 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+848 [C]#[C]
+849 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+850 [O]P(=O)(C1=CC=C(C=[C]1)C12CC3(CC(C2)(CC(C1)(C3)c1ccc(cc1)P(=O)([O])[O])c1ccc(cc1)P(=O)([O])[O])c1ccc(cc1)P(=O)([O])[O])[O] [O]P(=O)(C1=[C]C=C(C=C1)C12CC3(CC(C2)(CC(C1)(C3)c1ccc(cc1)P(=O)([O])[O])c1ccc(cc1)P(=O)([O])[O])c1ccc(cc1)P(=O)([O])[O])[O]
+851 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+852 [N]1=CN=NC=1 [N]1C=NN=C1
+853 [O-]C(=O)C1=C[C]2C(=NN=N2)C=C1 [O-]C(=O)[C]1C=CC2=NN=NC2=C1
+854 [O-]C(=O)C1=C[C]2C(=NN=N2)C=C1 [O-]C(=O)[C]1C=CC2=NN=NC2=C1
+855 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+856 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+857 NC1=NN=C([N]1)N [O-]C(=O)c1cc(cc(c1)S([O])([O])[O])C(=O)[O-]
+858 C1N2CN3CN1CP(C2)C3 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+859 [O-]C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[O-]
+860 [O-]C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[O-]
+861 [O-]C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[O-]
+862 CC1=NN=C([N]1)C CC1=[N]=C(N=N1)C [O-]C(=O)C(=O)[O-]
+863 n1ccc(cc1)c1ccc2c(c1)ccc(c2)c1ccncc1
+864 CCC1(CC)c2cc(ccc2-c2c1cc(cc2)C(=O)[O-])C(=O)[O-]
+865 N#Cc1cc(C#N)c(cc1C#N)C#N
+866 O=C(c1ccc(c(c1)C(=O)[O-])C(=O)[O-])c1ccc(c(c1)C(=O)[O-])C(=O)[O-] c1ncn(c1)Cc1ccc(cc1)Cn1cncc1
+867 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+868 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+869 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-] n1ncn(c1)CCn1cnnc1
+870 [O]P(=O)([O])[O]
+871 N1=[C][C]=C([C]=[C]1)C1=[C][C]=N[C]=[C]1 [O-]C(=O)c1ccc(cc1)C1=C2C=CC(=C(c3ccc(cc3)C(=O)[O-])C3=NC(=C(C4=CC=C(C(=C5N=C1C=C5)c1ccc(cc1)C(=O)[O-])[N]4)c1ccc(cc1)C(=O)[O-])C=C3)[N]2
+872 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+873 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+874 [O-]C(=O)c1ccc(c(c1)N)C(=O)[O-]
+875 [O-]C(=O)c1cccc(c1)C(=O)[O-]
+876 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+877 [O-]C(=O)c1cc(NCc2ccncc2)cc(c1)C(=O)[O-]
+878 [O-]C(=O)c1cc(NCc2ccncc2)cc(c1)C(=O)[O-]
+879 [O-]C(=O)c1cc(NCc2ccncc2)cc(c1)C(=O)[O-]
+880 [O-]C(=O)c1cc(NCc2ccncc2)cc(c1)C(=O)[O-]
+881 [O-]C(=O)c1cc(NCc2ccncc2)cc(c1)C(=O)[O-]
+882 [O-]C(=O)c1cc(NCc2ccncc2)cc(c1)C(=O)[O-]
+883 [O-]C(=O)c1cc(NCc2ccncc2)cc(c1)C(=O)[O-]
+884 [C]#N n1ccncc1
+885 CCOc1ccc2c(c1c1c(OCC)ccc3c1ccc(c3)P(=O)(O)[O])ccc(c2)P(=O)(O)[O] CCOc1ccc2c(c1c1c(OCC)ccc3c1ccc(c3)P(=O)([O])O)ccc(c2)P(=O)(O)[O] CCOc1ccc2c(c1c1c(OCC)ccc3c1ccc(c3)P(=O)([O])O)ccc(c2)P(=O)([O])O
+886 CCOc1ccc2c(c1c1c(OCC)ccc3c1ccc(c3)P(=O)([O])[O])ccc(c2)P(=O)([O])[O]
+887 [O-]C(=O)c1cccc(c1)C(=O)[O-]
+888 [O-]C(=O)C=Cc1cnc[nH]1
+889 [C]#N
+890 [C]#N
+891 [C]#N
+892 Nn1c(nnc1c1cccnc1)c1cccnc1 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+893 N1=C[C](C=N1)C1=C[CH]C=C([CH]1)C1=C[N]N=C1 N1=C[C](C=N1)[C]1C=CC=C([CH]1)C1=C[N]N=C1 N1=NC=C([CH]1)C1=C[CH]C=C([CH]1)[C]1C=NN=C1 N1=NC=C([CH]1)[C]1C=CC=C([CH]1)C1=C[N]N=C1
+894 C[Si](C#Cc1cnccc1C=Cc1ccncc1)(C)C [O-]C(=O)c1ccc(cc1)c1cc(c2ccc(cc2)C(=O)[O-])c(cc1c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+895 [O-]C(=O)c1ccc(cc1)C(=O)[O-] [O-][n+]1ccc(cc1)c1cc[n+](cc1)[O-]
+896 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+897 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+898 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+899 [O-]C(=O)c1ccc(cc1)C(=O)[O-] [O-][n+]1ccc(cc1)c1cc[n+](cc1)[O-]
+900 [O-]C(=O)c1ccc(cc1)C(=O)[O-] [O-][n+]1ccc(cc1)c1cc[n+](cc1)[O-]
+901 [O-]C(=O)c1ccc(cc1)C(=O)[O-] [O-][n+]1ccc(cc1)c1cc[n+](cc1)[O-]
+902 [O-]C(=O)c1ccc(cc1)C(=O)[O-] [O-][n+]1ccc(cc1)c1cc[n+](cc1)[O-]
+903 [O-]C(=O)C([O])C [O-]C(=O)c1ccc(cc1)c1ccncc1
+904 [O-]C(=O)c1cc(C#CC#Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+905 [O-]C(=O)CCCC(=O)[O-] n1ccc(cc1)c1ccncc1
+906 [O-]C(=O)CCCC(=O)[O-] n1ccc(cc1)c1ccncc1
+907 [O-]C(=O)CCCC(=O)[O-] n1ccc(cc1)c1ccncc1
+908 [O-]C(=O)CCCC(=O)[O-] n1ccc(cc1)CCc1ccncc1
+909 [O-]C(=O)CCCC(=O)[O-] n1ccc(cc1)CCc1ccncc1
+910 S1Cc2ccc(cc2)CSCc2ccc(C1)cc2
+911 S1Cc2ccc(cc2)CSCc2ccc(C1)cc2
+912 [O-]C(=O)c1cc(cc(c1)P(=O)([O])[O])C(=O)[O-]
+913 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+914 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+915 C(Cc1ccncc1)Cc1ccncc1 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+916 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)CCc1ccncc1
+917 [O]c1ccc(cc1)[O]
+918 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+919 n1ccc(cc1)c1ccncc1
+920 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+921 C1=C[C](C=C[N]1)[C]1C=C[N]C=C1 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+922 O=C1N(c2ccncc2)C(=O)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccncc1 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+923 O=C1N(c2ccncc2)C(=O)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccncc1 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+924 [CH]1C=NN=N1 [N]1C=CN=N1 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+925 [O-]C(=O)C12CC3(CC(C2)(CC(C1)(C3)C(=O)[O-])C(=O)[O-])C(=O)[O-]
+926 [O-]C(=O)c1cc(cc(c1)C1=C2C=CC3=[N]2[Ni]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc1)c1cc(cc(c1)C(=O)[O-])C(=O)[O-])c1cc(cc(c1)C(=O)[O-])C(=O)[O-])C(=O)[O-]
+927 NC1=NC=NC2=NC=N[C]12 Nc1ncnc2=[N]=CN=c12 [O-]C(=O)c1ccncc1
+928 NC1=NC=NC2=NC=N[C]12 Nc1ncnc2=[N]=CN=c12 [O-]C(=O)c1ccncc1
+929 NC1=NC=NC2=NC=N[C]12 Nc1ncnc2=[N]=CN=c12 [O-]C(=O)c1ccncc1
+930 S=[C]1=NN=C(O1)c1ccncc1
+931 [O-]C(=O)C=Cc1cnc[nH]1
+932 [O-]C(=O)c1c(C(=O)[O-])c(C(=O)[O-])c(c(c1C(=O)[O-])C(=O)[O-])C(=O)[O-]
+933 [O-]C(=O)c1c(I)c(C(=O)[O-])c(c(c1I)C(=O)[O-])I
+934 [O-]C(=O)c1cc([O])c(cc1[O])C(=O)[O-]
+935 [O-]C(=O)c1cc([O])c(cc1[O])C(=O)[O-]
+936 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+937 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+938 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+939 [O-]C(=O)c1cc(cc(c1)Oc1ccc(cc1)C(=O)[O-])Oc1ccc(cc1)C(=O)[O-]
+940 [O-]C(=O)c1ccc(cc1)c1cc(cc(c1)c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+941 [O-]C(=O)c1ccc(cc1)c1cc(C2=CC=[C]C=C2)c(cc1C1=CC=[C]C=C1)c1ccc(cc1)C(=O)[O-] [O-]C(=O)c1ccc(cc1)c1cc(c2ccc(cc2)C(=O)[O-])c(cc1c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+942 [O-]C(=O)c1cccc(c1)C1=C2C=CC(=C(c3cccc(c3)C(=O)[O-])C3=NC(=C(C4=CC=C(C(=C5N=C1C=C5)c1cccc(c1)C(=O)[O-])[N]4)c1cccc(c1)C(=O)[O-])C=C3)[N]2
+943 [O-]C(=O)c1cccc(c1)C1=C2C=CC(=N2)C(=c2ccc(=C(C3=NC(=C(c4[nH]c1cc4)c1cccc(c1)C(=O)[O-])C=C3)c1cccc(c1)C(=O)[O-])[nH]2)c1cccc(c1)C(=O)[O-] [O-]C=O
+944 [O-]C(=O)c1cccc(c1)C1=C2C=CC(=C(c3cccc(c3)C(=O)[O-])C3=NC(=C(C4=CC=C(C(=C5N=C1C=C5)c1cccc(c1)C(=O)[O-])[N]4)c1cccc(c1)C(=O)[O-])C=C3)[N]2
+945 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Cu]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O-])cc1)c1ccc(cc1)C(=O)O)c1ccc(cc1)C(=O)[O-] [O-]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Cu]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O-])cc1)c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)O
+946 [O]P(=O)([O])[O]
+947 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+948 [O-]C(=O)C=CC(=O)[O-]
+949 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+950 [O-]C(=O)c1cccnc1
+951 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+952 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+953 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+954 [O-]C(=O)c1ccc(c(c1)N)C(=O)[O-]
+955 [O-]C(=O)c1cc(C=Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+956 [O-]C(=O)c1cc([N][N]c2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+957 [C]#N
+958 [C]#N
+959 [C]#N
+960 C1CN2CCN1CC2 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+961 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+962 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+963 [C]#[C] [O-]C(=O)C(C(C(=O)[O-])(F)F)(F)F
+964 N#C[N]C#N c1cnc2c(n1)c1nccnc1c1c2nccn1
+965 [O-]C(=O)c1cccc(c1)C(=O)[O-]
+966 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+967 n1ccc(cc1)OCC(COc1ccncc1)(COc1ccncc1)COc1ccncc1
+968 [O-]C(=O)c1cc(cc(c1)C(C)(C)C)C(=O)[O-]
+969 CCCC1(CCC)c2cc(ccc2-c2c1cc(cc2)C(=O)[O-])C(=O)[O-]
+970 [O-]C(=O)c1ccc(cc1)c1cccc(c1)C(=O)[O-]
+971 [O-]C(=O)c1ccc(cc1)c1cccc(c1)C(=O)[O-]
+972 OCCOc1cc(c2ccncc2)c(cc1C1=C[CH][N]C=C1)OCCO OCCOc1cc(c2ccncc2)c(cc1C1=C[CH][N][CH][CH]1)OCCO [O-]C(=O)c1nccnc1C(=O)[O-]
+973 [O-]C(=O)C1=C([N]C=N1)C(=O)[O-] [O-]C(=O)C1=NC=N[C]1C(=O)[O-]
+974 [O-]C(=O)C1CCC(CC1)C(=O)[O-]
+975 C1N2CN3CN1CN(C2)C3 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+976 [O-]C(=O)COCC(=O)[O-]
+977 [O-]C(=O)COCC(=O)[O-]
+978 [O-]C(=O)CCC(=O)[O-]
+979 Cc1nccn1CCCCn1ccnc1C [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-]
+980 N#CC(C(c1ccc(cc1)[C](C#N)C#N)(C#N)C#N)(c1ccc(cc1)[C](C#N)C#N)C#N n1ccc(cc1)c1ccncc1
+981 N#CC(C(c1ccc(cc1)[C](C#N)C#N)(C#N)C#N)(c1ccc(cc1)[C](C#N)C#N)C#N n1ccc(cc1)c1ccncc1
+982 N#CC(C(c1ccc(cc1)[C](C#N)C#N)(C#N)C#N)(c1ccc(cc1)[C](C#N)C#N)C#N n1ccc(cc1)c1ccncc1
+983 N#CC(C(c1ccc(cc1)[C](C#N)C#N)(C#N)C#N)(c1ccc(cc1)[C](C#N)C#N)C#N n1ccc(cc1)c1ccncc1
+984 [O-]C(=O)C1=CN2C(=C3N([Mn]2(Cl)Cl)C=C(C=C3)C(=O)[O-])C=C1
+985 N1=NN=C([N]1)c1cc(cc(c1)C1=NN=N[N]1)C1=NN=N[N]1
+986 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+987 [O-]C(=O)c1cncc(c1)C(=O)[O-]
+988 [O-]C(=O)c1cncc(c1)C(=O)[O-]
+989 N#CC([C](C#N)C#N)(CC(=O)C)C#N
+990 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+991 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+992 [O-]C(=O)c1cc(cc(c1)N(=O)=O)C(=O)[O-] n1ccc(cc1)C1=NN=N[N]1
+993 n1ccc(cc1)C1=NN=C([N]1)c1ccccn1
+994 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+995 [O-]C(=O)c1ccc(cc1)c1cc(cc(c1)c1ccc(cc1)C(=O)O)c1ccc(cc1)C(=O)[O-]
+996 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+997 Cc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+998 [O-]C(=O)c1c[n-][nH]c1c1ccccc1 n1ccc(cc1)c1ccncc1
+999 NC(=O)c1cnccn1 [C]#[C] [O-]C(=O)C(F)(F)F
+1000 [O-]C=O
+1001 [O-]C=O
+1002 [O-]C=O
+1003 C(=CCn1cnnc1)Cn1cnnc1
+1004 [O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]
+1005 [O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]
+1006 [O-]C(=O)c1ccc(nc1)c1ccc(cn1)C(=O)[O-]
+1007 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])COc1ccc(cc1)C(=O)[O-]
+1008 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])COc1ccc(cc1)C(=O)[O-]
+1009 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])COc1ccc(cc1)C(=O)[O-]
+1010 [O-]C(=O)c1cc(cc(c1)n1cnnc1)C(=O)[O-]
+1011 [C]#N [C]#[C]
+1012 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])C c1ncn(c1)c1ccc(cc1)n1cncc1
+1013 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])C c1ncn(c1)c1ccc(cc1)n1cncc1
+1014 [O-]C(=O)C=Cc1cnc[nH]1
+1015 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1016 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1017 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)C=Cc1ccncc1
+1018 [O-]C(=O)c1ccc(cc1)n1cnc2c1cccc2
+1019 [C]#N c1ccncn1
+1020 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1021 [O]P(=O)(CN([C]P(=O)([O])[O])CCCCCCN(CP(=O)([O])[O])[C]P(=O)([O])[O])[O] n1ccc(cc1)CCc1ccncc1
+1022 C[C](c1ccncc1)[N][N][C](c1ccncc1)C [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+1023 [O-]C(=O)CN(c1cc(ccc1C(=O)[O-])C(=O)[O-])CC(=O)[O-] n1ccc(cc1)c1ccncc1
+1024 n1ncn(c1)n1cnnc1
+1025 n1ncn(c1)n1cnnc1
+1026 [O-]C(=O)c1ccnc(c1)C(=O)[O-]
+1027 [O-]C(=O)[C]1C=CC(=S)N=C1
+1028 S=C1[CH]C=C(C=N1)C(=O)[O-]
+1029 [O-]C(=O)c1cc([O])c(cc1[O])C(=O)[O-]
+1030 
+1031 [O-]C(=O)C(C(=O)[O-])(C)C
+1032 [O-]C(=O)C1=[C][C]=C([C]=[C]1)C1=[C][C]=C([C]=[C]1)C(=O)[O-]
+1033 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1034 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1035 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1036 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1037 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1038 [O-]C=O
+1039 [O-]C=O
+1040 [O-]C=O
+1041 [O-]C=O
+1042 [O-]C=O
+1043 [O-]C=O
+1044 [O-]C(=O)COCC(=O)[O-]
+1045 [O-]C(=O)[C]O[C]C(=O)[O-]
+1046 [O-]C(=O)CC[NH]1CCCN(CC[NH](CCCN(CC1)CCC(=O)[O-])CCC(=O)[O-])CCC(=O)[O-]
+1047 [O-]C=O
+1048 [O-]C=O
+1049 [O-]C=O
+1050 [O-]C=O
+1051 [O-]C=O
+1052 [O-]C=O
+1053 [O-]C=O
+1054 [O-]C=O
+1055 [O-]C=O
+1056 [O-]C=O
+1057 [O-]C=O
+1058 [O-]C=O
+1059 [C]#N
+1060 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1061 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1062 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1063 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1064 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1065 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1066 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1067 [O-]C(=O)c1ccc(cc1)C#Cc1ccc(cc1)C(=O)[O-]
+1068 [O][As](c1ccc(c(c1)N(=O)=O)[O])[O]
+1069 [O-]C(=O)c1ccc(c2c1c(ccc2C(=O)[O-])C(=O)[O-])C(=O)[O-]
+1070 
+1071 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1072 [O-]C(=O)c1cc(C#Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+1073 [O-]C(=O)c1cc(C#Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+1074 [O-]C(=O)COCC(=O)[O-]
+1075 [O-]C(=O)COCC(=O)[O-]
+1076 [O-]C(=O)c1ccccc1Oc1cccc(c1C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+1077 N#Cc1ccc(cc1)C(c1ccc(cc1)C#N)(c1ccc(cc1)C#N)O
+1078 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1079 [O-]C(=O)COCC(=O)[O-]
+1080 [O-]C(=O)CC(=CC(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+1081 [O-]C(=O)CC(=CC(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+1082 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+1083 n1ccc(cc1)c1ccncc1
+1084 [C]=O [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-] c1ncn(c1)c1ccc(cc1)c1ccc(cc1)n1cncc1
+1085 [O-]C(=O)CCCCC(=O)[O-]
+1086 [O-]C(=O)CCCCC(=O)[O-]
+1087 [O]P(=O)(CCCCP(=O)([O])[O])[O]
+1088 [O-]C(=O)COCC(=O)[O-]
+1089 [O-]C(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)[O-])(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1090 [O-]C(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1091 [O-]C(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)[O-])(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1092 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1093 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+1094 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1095 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1096 Cc1ccc(cc1)C1=N[C](C(=N1)C(=O)[O-])C(=O)O
+1097 CC1=NC=C[N]1
+1098 [O-]C(=O)CNCC(=O)[O-]
+1099 [O-]C(=O)CNCC(=O)[O-]
+1100 [O-]C(=O)c1cc(N=Nc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+1101 [O-]C(=O)c1cc([N][N]c2cc(cc(c2)C(=O)O)C(=O)O)cc(c1)C(=O)[O-]
+1102 [O]c1ccccc1[CH][N]Cc1cccnc1
+1103 [O]c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1104 C(Cc1ccncc1)Cc1ccncc1 [O]P(=O)[O]
+1105 C(Cc1ccncc1)Cc1ccncc1 [O]P(=O)[O]
+1106 C(Cc1ccncc1)Cc1ccncc1 [O]P(=O)[O]
+1107 [O-]C(=O)c1ccc(cc1)n1cncc1
+1108 [O-]C(=O)c1ccc(cc1)n1cncc1
+1109 [O-]C(=O)c1ccc2c(c1)cc(cc2)C(=O)[O-]
+1110 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1111 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1112 O=C1N(c2ccncc2)C(=O)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccncc1 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1113 [O-]C(=O)C1=C([N]C(=N1)c1ccccc1)C(=O)[O-]
+1114 CC1=NN=N[N]1 [O]S(=O)(=O)[O]
+1115 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1116 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1117 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1118 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1119 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1120 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1121 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1122 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1123 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1124 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1125 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1126 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1127 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1128 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1129 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1130 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1131 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1132 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1133 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1134 C(Cn1cncc1)CCn1cncc1 [O-]C(=O)c1cccc(c1)C(=O)[O-]
+1135 Cc1nnc(s1)[N]C(=O)c1ccncc1
+1136 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])c1cc(cc(c1)c1cc(cc(c1)C(=O)[O-])C(=O)[O-])c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1137 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-] n1ccc(cc1)C1=N[C](N[N]1)c1cccnc1
+1138 [O-]C(=O)CC(C(=O)[O-])N n1ccc(cc1)C=Cc1ccncc1
+1139 [O-]C(=O)CC(C(=O)[O-])N n1ccc(cc1)c1ccncc1
+1140 OCCOCCOc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1141 [O-]C(=O)c1ccc(cc1)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1142 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1143 [O-]C(=O)c1cc(O)c(cc1O)C(=O)[O-]
+1144 [O-]C(=O)c1cc(O)c(cc1O)C(=O)[O-]
+1145 [O-]C(=O)c1ccc(cc1)[N][N]c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1146 CCC1=NN=C[N]1 CCC1=[N]=CN=N1
+1147 CCC1=NN=C[N]1
+1148 CCC1=NN=C[N]1
+1149 CCC1=NN=C[N]1 CCC1=[N]=CN=N1
+1150 [O-]C(=O)c1ccccc1 [O-][n+]1ccc(cc1)c1cc[n+](cc1)[O-]
+1151 [O-]C(=O)c1ccc(nc1)SSc1ccc(cn1)C(=O)[O-]
+1152 [O-]C(=O)CN(c1cc(cc(c1)C(=O)O)C(=O)[O-])CC(=O)[O-] n1ccc(cc1)c1ccncc1
+1153 CC1=NN=C([N]1)C CC1=[N]=C(N=N1)C [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1154 C(Cn1cncc1)CCn1cncc1 [CH2]CCCn1cncc1
+1155 O=C(c1ccc(c(c1)C(=O)[O-])C(=O)[O-])c1ccc(c(c1)C(=O)[O-])C(=O)[O-]
+1156 [O]P(=O)(C1=C[C]=C(C=[C]1)P(=O)([O])[O])[O]
+1157 c1ncn(c1)c1ccc(cc1)n1cncc1
+1158 Cc1nccn1[BH](n1ccnc1C)n1ccnc1C [O-]C(=O)c1ccccc1c1ccccc1C(=O)[O-]
+1159 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1160 [O-]C(=O)CCN(CCC(=O)[O-])CCC(=O)[O-]
+1161 
+1162 [O-]C(=O)c1ccc(cc1)COc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1163 [CH]1[N][CH]N([CH]1)CCN1[CH][N][CH][CH]1 [O-]C(=O)CCCCCCC(=O)[O-]
+1164 
+1165 [O-]C(=O)CNCC(=O)[O-]
+1166 [S]C#N c1ccc(cn1)COc1cccc(c1)[CH][N][N][CH]c1cccc(c1)OCc1cccnc1
+1167 [O]S(=S)(=O)[O] n1ccc(cc1)C=Cc1ccncc1
+1168 [O-]C(=O)CCCCC(=O)[O-]
+1169 [O-]C(=O)CCCCC(=O)[O-]
+1170 [O-]C(=O)c1ccc2c(c1)[nH]cn2
+1171 [O-]C(=O)C1=CC=C([C]=C1)Oc1ccc(cc1)C(=O)[O-] [O-]C(=O)C1=C[C]=C(C=C1)Oc1ccc(cc1)C(=O)[O-] [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-]
+1172 [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-]
+1173 [O-]C(=O)C1C(C(=O)[O-])C(C(=O)[O-])C(C(C1C(=O)[O-])C(=O)[O-])C(=O)[O-]
+1174 [O-]C(=O)C1C(C(=O)[O-])C(C(=O)[O-])C(C(C1C(=O)[O-])C(=O)[O-])C(=O)[O-]
+1175 [O-]C(=O)C1C(C(=O)[O-])C(C(=O)[O-])C(C(C1C(=O)[O-])C(=O)[O-])C(=O)[O-]
+1176 C1=N[CH]N([N]1)CC1=Nc2c([N]1)cccc2
+1177 n1ccnc(c1)c1nnc(o1)c1nccnc1
+1178 [C](Cc1ccncc1)Cc1ccncc1 [O]P(=O)(c1cc(cc(c1)P(=O)([O])[O])P(=O)(O)[O])O
+1179 [O-]C(=O)c1ccc(nc1)c1ccc(cn1)C(=O)[O-]
+1180 [O-]C(=O)c1ccc(nc1)c1ccc(cn1)C(=O)[O-]
+1181 [O-]C(=O)c1ccc(nc1)c1ccc(cn1)C(=O)[O-]
+1182 [O-]C(=O)c1ccc(nc1)c1ccc(cn1)C(=O)[O-]
+1183 CC1=NN=C([N]1)CC1=[N]=C(N=N1)C CC1=[N]=C(N=N1)CC1=[N]=C(N=N1)C
+1184 CC1=NN=C([N]1)CC1=[N]=C(N=N1)C CC1=[N]=C(N=N1)CC1=[N]=C(N=N1)C
+1185 CC1=NN=C([N]1)CC1=[N]=C(N=N1)C CC1=[N]=C(N=N1)CC1=[N]=C(N=N1)C
+1186 CC1=NN=C([N]1)CC1=[N]=C(N=N1)C CC1=[N]=C(N=N1)CC1=[N]=C(N=N1)C
+1187 CC1=NN=C([N]1)CC1=[N]=C(N=N1)C CC1=[N]=C(N=N1)CC1=[N]=C(N=N1)C
+1188 CC1=NN=C([N]1)CC1=[N]=C(N=N1)C CC1=[N]=C(N=N1)CC1=[N]=C(N=N1)C
+1189 [O-]C(=O)C(=O)[O-] [O]P(=O)([O])[O]
+1190 [O-]C(=O)C1=C([N]N=N1)C(=O)[O-] [O-]C(=O)C1=NN=N[C]1C(=O)[O-] [O-]C(=O)C1=N[N]N=C1C(=O)[O-]
+1191 C(Cc1ccncc1)Cc1ccncc1 [O-]C(=O)c1ccc(o1)C(=O)[O-]
+1192 C(Cc1ccncc1)Cc1ccncc1 [O]P(=O)[O]
+1193 [O-]C(=O)CC(C(=O)[O-])N n1ccc(cc1)c1ccncc1
+1194 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1195 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1196 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1197 [O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]
+1198 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1199 [O-]C(=O)CC(C(=O)[O-])N n1ccc(cc1)c1ccncc1
+1200 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1201 [O-]C(=O)C1=C[C]=C([C]=C1)C(=O)[O-]
+1202 [O-]C(=O)C1=C[C]=C([C]=C1)C(=O)[O-]
+1203 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1204 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1205 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1206 c1ccc(cn1)[CH][N][N][CH]c1cccnc1
+1207 CC1=NN=C([N]1)C
+1208 N#C[N]C#N n1ccc(cc1)CCc1ccncc1
+1209 N#C[N]C#N n1ccc(cc1)CCc1ccncc1
+1210 N#C[N]C#N n1ccc(cc1)CCc1ccncc1
+1211 [O-]C(=O)c1ccc(cc1)N(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1212 [O-]C(=O)c1ccc(cc1)N(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1213 [O-]C(=O)c1ccc(cc1)N(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1214 [O-]C(=O)c1cccc(c1)c1ccncc1
+1215 [O-]C(=O)COc1ccc(cc1)C(=O)[O-] n1ccc(cc1)CCc1ccncc1
+1216 [O-]C(=O)c1ccc(s1)c1cc(cc(c1)c1ccc(s1)C(=O)[O-])c1ccc(s1)C(=O)[O-]
+1217 Cc1[nH][n-]c(c1c1c(C)[n-][nH]c1C)C [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1218 [O-]C(=O)c1ccc(s1)c1cc(cc(c1)c1ccc(s1)C(=O)[O-])c1ccc(s1)C(=O)[O-]
+1219 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)C=Cc1ccc(cc1)C=Cc1ccncc1
+1220 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)C=Cc1ccc(cc1)C=Cc1ccncc1
+1221 [C]#[C]
+1222 [O-]C(=O)C=CC(=O)[O-]
+1223 [O-]C(=O)C=CC(=O)[O-]
+1224 [O-]C(=O)c1ccc(cc1)C=Cc1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1225 [S]C#N
+1226 [S]C#N
+1227 [O-]C(=O)c1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)c1ccc(cc1)C(=O)[O-]
+1228 [O-]C(=O)c1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)c1ccc(cc1)C(=O)[O-]
+1229 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])COc1ccc(cc1)C(=O)[O-]
+1230 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])COc1ccc(cc1)C(=O)[O-]
+1231 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1232 O=C(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1233 O=C(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1234 [O-]C(=O)C12CC3(CC(C2)(CC(C1)(C3)C(=O)[O-])C(=O)[O-])C(=O)[O-]
+1235 [O-]C(=O)C(c1ccccc1)CC(=O)[O-]
+1236 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1237 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1238 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1239 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1240 c1ccc(nc1)c1nc(C2=NN=N[N]2)c(nc1c1ccccn1)C1=NN=N[N]1 c1ccc(nc1)c1nc(C2=N[N]N=N2)c(nc1c1ccccn1)C1=NN=N[N]1
+1241 [O-]C(=O)c1nccc(c1)c1ccnc(c1)C(=O)[O-]
+1242 O=C1C(=O)C(=O)C1=O
+1243 Cc1nccc(c1)c1ccnc(c1)C [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1244 OC(=O)c1c(cc(nc1c1ccncc1)c1ccncc1)c1ccc(cc1)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1245 [O-]C(=O)c1ccc(cc1)c1cc(c2ccc(cc2)C(=O)[O-])c(cc1c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1246 O=[C]1=NC=CC=N1
+1247 C(Cc1ccncc1)Cc1ccncc1 [N][N][N] n1ccc(cc1)C1=NN=N[N]1 n1ccc(cc1)C1=N[N]N=N1
+1248 Nc1ccncc1 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1249 CC1(C)Cc2nnc3c4c2c(C1)nnc4CC(C3)(C)C
+1250 [O-]C(=O)c1ccnc(c1)c1nccc(c1)C(=O)[O-]
+1251 c1ncn(c1)Cc1ccc(cc1)Cn1cncc1
+1252 NC1=NN=C([N]1)N [O-]C(=O)c1cccc(c1)C(=O)[O-]
+1253 [C]#N
+1254 [O-]C(=O)c1ccnc(c1)C(=O)[O-]
+1255 [O-]C(=O)CCCCC(=O)[O-]
+1256 [O-]C(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)[O-])(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1257 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1258 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1259 
+1260 [O-]C(=O)c1cc(OCc2cccc(c2)COc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+1261 [O-]C(=O)C=CC(=O)[O-]
+1262 COC1C(OC)CCc2c1c(ccn2)c1ccncc1 [O-]C(=O)C=CC(=O)[O-]
+1263 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1264 [O-]C(=O)c1cc2cc3cc(C(=O)[O-])c(cc3cc2cc1C(=O)[O-])C(=O)[O-] n1ccc(cc1)[N][N]c1ccncc1
+1265 
+1266 N1=CC=N[N]1 [CH]1C=NN=N1 [N]1C=CN=N1
+1267 [O-]C(=O)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)OCC(COc1ccncc1)(COc1ccncc1)COc1ccncc1
+1268 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])c1cc(cc(c1)c1cc(cc(c1)C(=O)[O-])C(=O)[O-])c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1269 N#C[C](c1ccc(cc1)[C](C#N)C#N)C#N n1ccc(cc1)C=Cc1ccncc1
+1270 N#C[C](c1ccc(cc1)[C](C#N)C#N)C#N n1ccc(cc1)[C]=[C]c1ccncc1
+1271 [O-]C(=O)c1ccncc1
+1272 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+1273 NCCCCCN [C]#N
+1274 NCCCCCCCN [C]#N
+1275 Fc1c([O])c(F)c(c(c1F)C(=O)[O-])F n1ccc(cc1)c1ccncc1
+1276 Fc1c([O])c(F)c(c(c1F)C(=O)[O-])F n1ccc(cc1)c1ccncc1
+1277 [O-]C(=O)C12CC3(CC(C2)(CC(C1)(C3)C(=O)[O-])C(=O)[O-])C(=O)[O-]
+1278 [O-]C(=O)C(C[O])[N] [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1279 [O-]C(=O)[C](C[O])[N] [O-]C(=O)c1ccc(cc1)C(=O)[O-] [O-][C]=O
+1280 [O-]C(=O)C1=C([N]C=N1)C(=O)[O-] [O-]C(=O)C1=NC=N[C]1C(=O)[O-]
+1281 [O-]C=O
+1282 [O-]C=O
+1283 [O-]C=O
+1284 [O-]C=O
+1285 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+1286 [O-]C=O
+1287 [O-]C=O
+1288 [O-]C=O
+1289 
+1290 O=C1N(c2ccncc2)C(=O)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccncc1 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+1291 [N][N][N] c1ccc(cn1)[CH][N][N][CH]c1cccnc1
+1292 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)CCc1ccncc1
+1293 [O-]C(=O)C1C(C(=O)[O-])C(C1C(=O)[O-])C(=O)[O-]
+1294 [O-]C(=O)C(CC(=O)[O-])(CC(=O)[O-])[O]
+1295 C1Cc2nnc3c4c2c2C1CCc1c2c2c4C(CC3)CCc2nn1
+1296 C1Cc2nnc3c4c2c2C1CCc1c2c2c4C(CC3)CCc2nn1
+1297 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1298 [O-]C(=O)c1ccncc1
+1299 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+1300 Cc1cc(cc(c1)C(=O)[O-])C(=O)[O-] [CH2]c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1301 Cc1cc(cc(c1)C(=O)[O-])C(=O)[O-] [CH2]c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1302 O=C1C(=O)C(=O)C1=O
+1303 O=C1C(=O)C(=O)C1=O
+1304 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1305 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1306 [O-]C(=O)C1=C([N]C=N1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1307 [O-]C(=O)C1=C([N]C=N1)C(=O)[O-] [O-]C(=O)C1=NC=N[C]1C(=O)[O-] n1ccc(cc1)c1nnc(s1)c1ccncc1
+1308 [O-]C=O
+1309 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-] n1ccc(cc1)C=Cc1ccncc1
+1310 [O-]C(=O)c1ccc(cc1)C(=O)[O-] c1cc(OCc2c(COc3cccc(c3)n3cnnc3)c(COc3cccc(c3)n3cnnc3)c(c(c2COc2cccc(c2)n2cnnc2)COc2cccc(c2)n2cnnc2)COc2cccc(c2)n2cnnc2)cc(c1)n1cnnc1
+1311 [O-]C(=O)c1c(cccc1C(=O)[O-])Sc1cccc(c1C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+1312 
+1313 [O-]C(=O)c1cc(OCc2ccc(cc2)COc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-] n1ccc(cc1)[N][N]c1ccncc1
+1314 [O-]C(=O)C1=C([N]N=N1)C(=O)[O-] [O-]C(=O)C1=NN=N[C]1C(=O)[O-] n1ccc(cc1)c1ccncc1
+1315 [O]S(=O)(=O)[O] n1ccc(cc1)c1ccncc1
+1316 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1317 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1318 [O-]C(=O)c1ccc(cc1)NC1=[N]=C([N]C(=N1)Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-])Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1319 [O-]C(=O)[C]1C=CC2=NN=NC2=C1 [O-]C(=O)c1ccc2c(c1)[N]N=N2
+1320 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1321 [NH]C1CCC(CC1)[NH] [O]P(=O)(O)[O] [O]P(=O)([O])[O]
+1322 [O-]C(=O)[C]1C=CC2=NN=NC2=C1 [O-]C(=O)c1ccc2c(c1)[N]N=N2
+1323 [O-]C(=O)c1c(F)c(F)c(c(c1F)F)C(=O)[O-]
+1324 CO[B](OC)(OC)OC N#C[C](C#N)C#N
+1325 CC(C(=O)[O-])NC(=O)c1ccc(cc1)C(=O)[O-]
+1326 [O-]C(=O)CNS(=O)(=O)c1cccc(c1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1327 [O-]C(=O)C1C(C(=O)[O-])C(C(=O)[O-])C(C(C1C(=O)[O-])C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+1328 [O-]C(=O)[C]O[C]C(=O)[O-]
+1329 [C]#N
+1330 NC(C([S])(C)C)C(=O)[O-]
+1331 [O-]C(=O)c1ccc(cc1)OCC(COc1ccc(cc1)C(=O)[O-])(COc1ccc(cc1)C(=O)[O-])COc1ccc(cc1)C(=O)[O-]
+1332 [C]#N n1ccncc1
+1333 [O-]C(=O)c1cc(C#CC#Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+1334 [O-]C(=O)C1=C(N=C([N]1)c1ccncc1)C(=O)O [O-]C(=O)C1=NC(=N[C]1C(=O)O)c1ccncc1
+1335 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1336 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1337 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1338 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1339 [O-]C(=O)c1ccc(cc1)Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1340 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1341 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1342 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1343 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1344 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1345 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1346 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1347 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1348 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1349 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1350 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1351 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1352 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1353 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1354 [O-]C(=O)C([O])C [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1355 [O-]C(=O)C([O])C [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1356 O=N(=O)c1cc(ccc1C(=O)[O-])C(=O)[O-] n1ccncc1
+1357 O=N(=O)c1cc(ccc1C(=O)[O-])C(=O)[O-] n1ccncc1
+1358 O=N(=O)c1cc(ccc1C(=O)[O-])C(=O)[O-] n1ccncc1
+1359 O=N(=O)c1cc(ccc1C(=O)[O-])C(=O)[O-] n1ccncc1
+1360 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+1361 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+1362 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+1363 Nc1nccc(c1)C(=O)[O-]
+1364 N1=NN=C([N]1)c1n[nH]nc1C1=NN=N[N]1
+1365 n1ccc(cc1)c1nnc(nn1)c1ccncc1
+1366 n1ccc(cc1)c1nnc(nn1)c1ccncc1
+1367 n1ccc(cc1)c1nnc(nn1)c1ccncc1
+1368 [O-]C(=O)C([O])C [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1369 [O-]C(=O)c1cc(cc(c1)S([O])([O])[O])C(=O)[O-] c1ncn(c1)Cc1ccc(cc1)Cn1cncc1
+1370 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1371 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1372 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1373 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1374 [O-]C(=O)c1c(cccc1C(=O)[O-])Oc1cccc(c1C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+1375 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1376 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1377 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1378 [O-]C(=O)c1ccc(cc1)c1cncc(c1)C(=O)[O-]
+1379 [O-]C(=O)C [O-]C(=O)c1ccc(cc1)OCc1c(C)c(COc2ccc(cc2)C(=O)[O-])c(c(c1C)COc1ccc(cc1)C(=O)[O-])C
+1380 [O-]C(=O)c1cncc(c1)C(=O)[O-]
+1381 [O-]C(=O)c1cncc(c1)C(=O)[O-]
+1382 [O-]C(=O)c1cncc(c1)C(=O)[O-]
+1383 [O-]C(=O)c1cncc(c1)C(=O)[O-]
+1384 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1385 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1386 [O-]C(=O)[C]1C=C[N]C=C1 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1387 CC(OC(=O)[S])C
+1388 [O-]C(=O)c1ccc(cn1)C(=O)[O-]
+1389 [C]#N
+1390 [O-]C(=O)C1CCC(CC1)C(=O)[O-]
+1391 [C]#N [N][C][C][C][C][C][C][C][C][N]
+1392 [O-]C(=O)C1CC(CC(C1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+1393 N1=C[C](C=N1)c1ccc(cc1)C1=C[N]N=C1 N1=C[C](C=N1)c1ccc(cc1)[C]1C=NN=C1 N1=NC=C([CH]1)c1ccc(cc1)[C]1C=NN=C1 [N]1N=CC(=C1)c1ccc(cc1)C1=C[N]N=C1
+1394 [O-]C(=O)c1ccc(c(c1)N)C(=O)[O-]
+1395 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1396 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1397 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1398 [O-]C(=O)c1sc(c2c1OCCO2)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1399 NCCC[C][C]CCCN [C]#N
+1400 
+1401 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1402 [O-]C(=O)c1ccc(cc1)n1cncc1
+1403 [O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]
+1404 [O-]C(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)[O-])(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1405 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1406 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1407 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1408 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1409 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1410 N1=C[C](C=N1)c1ccc(cc1)C1=C[N]N=C1
+1411 
+1412 [C]#N
+1413 C(Cc1ccncc1)Cc1ccncc1
+1414 n1ccnc(c1)Cc1nccnc1
+1415 [C]#N
+1416 [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-]
+1417 [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-]
+1418 N1=NN=C([N]1)c1ccc(cc1)C1=NN=N[N]1
+1419 
+1420 
+1421 N#C[N]C1=[N]=[C](=[N]=C(N1)[N]C#N)[N]C#N
+1422 
+1423 [O-]C(=O)c1cc(O)c(cc1O)C(=O)[O-] [O-]C(=O)c1cc([O])c(cc1[O])C(=O)[O-] n1ccc(cc1)[N][N]c1ccncc1
+1424 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])c1cc(c2cc(cc(c2)C(=O)[O-])C(=O)[O-])c(cc1c1cc(cc(c1)C(=O)[O-])C(=O)[O-])c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1425 CC1=NN=N[N]1
+1426 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1427 CS(=O)C [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1428 N1=NN=C([N]1)c1cc(cc(c1)C1=NN=N[N]1)C1=NN=N[N]1
+1429 [N]1N=NC(=N1)c1cc(cc(c1)C1=NN=N[N]1)C1=N[N]N=N1
+1430 C(CN1NC=N[CH]1)CCN1NC=N[CH]1 [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-]
+1431 [C]#N c1cnc2c(n1)c1nccnc1c1c2nccn1
+1432 Cc1nc(c([nH]1)C(=O)[O-])C(=O)[O-] [O-]C(=O)C(=O)[O-]
+1433 Cc1nc(c([nH]1)C(=O)[O-])C(=O)[O-] [O-]C(=O)C(=O)[O-]
+1434 Cc1nc(c([nH]1)C(=O)[O-])C(=O)[O-] [O-]C(=O)C(=O)[O-]
+1435 NC1=C2[N]C=[N]=C2[N]C=N1 NC1=NC=NC2=NC=N[C]12 N[C]1N=C[N]C2=[N]=CN=C12 Nc1ncnc2=[N]=CN=c12 [O-]C(=O)c1ccncc1
+1436 [O-]C(=O)c1cccc(n1)C(=O)[O-] n1ccc(cc1)OCC(COc1ccncc1)(COc1ccncc1)COc1ccncc1
+1437 Nc1nccc(c1)C(=O)[O-] Nc1ncnc2=[N]=CN=c12
+1438 [O-]C(=O)c1sc2c(c1C)c(c(s2)C(=O)[O-])C
+1439 [O-]C(=O)c1sc(nc1C)c1ccncc1
+1440 Cc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1441 [O-]C(=O)C1=CN2[C]3N([CH]1)[Ir]c1c3c([Ir]2)cc(c1)C(=O)[O-] [O-]C(=O)c1ccc(cc1)c1ncc(cn1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1442 
+1443 [O-]C=O
+1444 [O-]C=O
+1445 [O-]C=O
+1446 O=C(c1ccc(cc1)C(=O)Nc1ccncc1)Nc1ccncc1 [O-]C(=O)c1ccc(s1)C(=O)[O-]
+1447 [O-]C=O
+1448 [O-]C=O
+1449 [O-]C=O
+1450 [O-]C=O
+1451 O=c1c2cc3c(cc2c(=O)n1Cc1ccncc1)c(=O)n(c3=O)Cc1ccncc1 [O-]C(=O)c1ccccc1C(=O)[O-]
+1452 [O-]C(=O)C=CC(=O)[O-] n1ccc(cc1)C=Cc1ccncc1
+1453 [O-]C(=O)c1cccc(c1)C(=O)[O-]
+1454 C1=C[C](C=C[N]1)c1ccncc1 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1455 [O-]C(=O)c1ccccc1c1ccccc1C(=O)[O-] n1ccncc1
+1456 [O-]C(=O)CCn1c(=O)n(CCC(=O)[O-])c(=O)n(c1=O)CCC(=O)[O-]
+1457 [O-]C(=O)CCn1c(=O)n(CCC(=O)[O-])c(=O)n(c1=O)CCC(=O)[O-]
+1458 [O-]C(=O)c1cc(cc(c1)C(=O)O)C(=O)[O-]
+1459 Cc1[n-]n(c(c1c1ccncc1)C)Cn1[n-]c(c(c1C)c1ccncc1)C [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1460 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1461 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1462 [O-]C(=O)c1ccc(cc1)c1cc(c2ccc(cc2)C(=O)[O-])c(cc1c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1463 C1=NC=[N]=C[N]1
+1464 CC1=NC=C[N]1 CC1=N[CH]C=N1
+1465 [O-]C(=O)c1cc(NCc2ccncc2)cc(c1)C(=O)[O-]
+1466 [O-]C(=O)c1cc(NCc2ccncc2)cc(c1)C(=O)[O-] [O-]C(=O)c1cc(N[C]c2ccncc2)cc(c1)C(=O)[O-]
+1467 [O-]C(=O)c1cccc(c1c1c(cccc1C(=O)[O-])C(=O)[O-])C(=O)[O-] n1ccc(cc1)N=Nc1ccncc1
+1468 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C1C(c2ccncc2)C(C1c1ccncc1)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1469 [O-]C(=O)c1ccc(cc1)C#Cc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1470 [C]#N
+1471 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1472 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1473 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1474 [O-]C(=O)c1ccc(cc1)c1c2ccccc2c(c2c1cccc2)c1ccc(cc1)C(=O)[O-]
+1475 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1476 N#CC(=Cc1ccccc1OCCOc1ccccc1C=C(C#N)C#N)C#N
+1477 [O-]C(=O)c1ccncc1
+1478 n1ccc(cc1)c1cccnc1
+1479 [O-]C(=O)c1nc(C(=O)[O-])c(nc1C(=O)[O-])C(=O)[O-]
+1480 [O-]C(=O)c1nc(C(=O)[O-])c(nc1C(=O)[O-])C(=O)[O-]
+1481 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+1482 [S]C#N n1ccc(cc1)c1nnc(o1)c1ccncc1
+1483 [O-]C(=O)c1cc(OCOc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+1484 [O-]C(=O)c1cc(OCCOc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+1485 [O-]C(=O)c1cc(OCCOc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+1486 [O-]C(=O)C(C[S])N
+1487 [O-]C(=O)CCCC(=O)[O-] [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1488 [O-]C(=O)c1ccc(cc1)P(=O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1489 [O-]C(=O)c1ccc(cc1)P(=O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1490 [O-]C(=O)c1ccc(cc1)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1491 n1ccc(cc1)OCC(COc1ccncc1)(COc1ccncc1)COc1ccncc1
+1492 n1ccc(cc1)OCC(COc1ccncc1)(COc1ccncc1)COc1ccncc1
+1493 n1ccc(cc1)OCC(COc1ccncc1)(COc1ccncc1)COc1ccncc1
+1494 n1ccc(cc1)OCC(COc1ccncc1)(COc1ccncc1)COc1ccncc1
+1495 [N]CCCC[N] [O][Si](O[Si]([O])([O])[O])([O])[O]
+1496 NC1=NN=N[N]1
+1497 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+1498 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1499 n1ccc(cc1)c1ccncc1
+1500 N1=C[C](C=N1)c1cc(cc(c1)C1=C[N]N=C1)C1=C[N]N=C1 N1=C[C](C=N1)c1cc(cc(c1)C1=C[N]N=C1)[C]1C=NN=C1
+1501 N1=C[C](C=N1)c1cc(cc(c1)C1=C[N]N=C1)C1=C[N]N=C1 N1=C[C](C=N1)c1cc(cc(c1)C1=C[N]N=C1)[C]1C=NN=C1
+1502 N1=C[C](C=N1)c1cc(cc(c1)C1=CN=N[CH]1)C1=C[N]N=C1 [N]1N=CC(=C1)c1cc(cc(c1)C1=CN=N[CH]1)C1=CN=N[CH]1
+1503 N1=C[C](C=N1)c1cc(cc(c1)C1=CN=N[CH]1)C1=C[N]N=C1 [N]1N=CC(=C1)c1cc(cc(c1)C1=CN=N[CH]1)C1=CN=N[CH]1
+1504 [O-]C(=O)c1cc(cc(c1)n1cnnc1)C(=O)[O-]
+1505 [O-]C(=O)c1cc(cc(c1)n1cnnc1)C(=O)[O-]
+1506 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+1507 n1cc([nH]c1)c1ccc(cc1)c1[nH]cnc1
+1508 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)C1=N[N]C(=N[N]1)c1ccncc1 n1ccc(cc1)c1nnc(nn1)c1ccncc1
+1509 [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-] c1ccc(cn1)C1=N[N]C(=N[N]1)c1cccnc1
+1510 O=C(c1ccncc1)Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1511 [O-]C(=O)c1ccc(s1)c1ccc(s1)C(=O)[O-]
+1512 [O-]C(=O)c1ccc(cc1)C(=O)[O-] [O-]C(=O)c1ccc(cc1)c1ccncc1
+1513 [O-]C(=O)C=CC=CC(=O)[O-]
+1514 [O-]C(=O)C=CC=CC(=O)[O-]
+1515 [O-]C(=O)c1cc2ccccc2c(c1O)Cc1c(O)c(cc2c1cccc2)C(=O)[O-] c1ncn(c1)Cc1ccc(cc1)Cn1cncc1
+1516 NC1=NC=NC2=NC=N[C]12 Nc1ncnc2=[N]=CN=c12 [O-]C(=O)c1ccncc1
+1517 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+1518 O=C(c1cc(cc(c1)C(=O)Nc1ccc(cc1)C(=O)[O-])C(=O)Nc1ccc(cc1)C(=O)[O-])Nc1ccc(cc1)C(=O)[O-]
+1519 [N]([CH]c1ccncc1)[N][CH]c1ccncc1 [O-]C(=O)CCCC(=O)[O-]
+1520 [N]([CH]c1ccncc1)[N][CH]c1ccncc1 [O-]C(=O)CCCC(=O)[O-]
+1521 [N]([CH]c1ccncc1)[N][CH]c1ccncc1 [O-]C(=O)CCCC(=O)[O-]
+1522 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1523 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1524 [O-]C(=O)c1ccncc1
+1525 [O-]C(=O)c1ccncc1
+1526 [O-]C(=O)c1cc(O)c(cc1O)C(=O)[O-]
+1527 [O-]C(=O)c1cc(c2-c1ccccc2)C(=O)[O-]
+1528 [O-]C(=O)c1ccc(cc1)c1ccncc1
+1529 [O-]C(=O)c1ccc(cc1)[N][N]c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1530 
+1531 [O-]C(=O)C1=CC2=C3C=C(C=CN3[Pt]N2C=C1)C(=O)[O-]
+1532 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1533 [O-]C(=O)C(=O)[O-]
+1534 [O-]C(=O)C(=O)[O-]
+1535 [O-]C(=O)C(=O)[O-]
+1536 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1537 [O-]C(=O)c1cc(N(=O)=O)c(c(c1)N(=O)=O)c1c(cc(cc1N(=O)=O)C(=O)[O-])N(=O)=O n1ccc(cc1)c1ccncc1
+1538 [O-]C(=O)c1ccncc1
+1539 [O-]C(=O)c1ccncc1
+1540 [O-]C(=O)c1ccncc1
+1541 [O-]C(=O)c1ccncc1
+1542 [O-]C(=O)c1ccncc1
+1543 C(CCSc1ccccc1)CCCSc1ccccc1
+1544 [O-]C(=O)c1nccnc1C(=O)[O-] n1ccc(cc1)C=Cc1ccncc1
+1545 [O-]C(=O)c1cccc(n1)C(=O)[O-]
+1546 C1=C[N]C=N1 C1=N[CH]C=N1
+1547 C1=C[N]C=N1 C1=N[CH]C=N1
+1548 N1=NN=C([N]1)c1ccc(cc1)C1=NN=N[N]1
+1549 N1=NN=C([N]1)c1ccc(cc1)C1=NN=N[N]1
+1550 [O-]C(=O)C [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1551 [O-]C(=O)CC(C(=O)[O-])N
+1552 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1ccc(cc1)C1=C2C=CC(=N2)C(=c2ccc(=C(C3=NC(=C(c4[nH]c1cc4)c1ccc(cc1)C(=O)[O-])C=C3)c1ccc(cc1)C(=O)[O-])[nH]2)c1ccc(cc1)C(=O)[O-]
+1553 [O-]C(=O)c1ccc(cc1)c1cncc(c1)c1ccc(cc1)C(=O)[O-]
+1554 N1=C[C](C=N1)c1ccc(cc1)C1=C[N]N=C1 N1=C[C](C=N1)c1ccc(cc1)[C]1C=NN=C1 N1=NC=C([CH]1)c1ccc(cc1)C1=CN=N[CH]1 [N]1N=CC(=C1)c1ccc(cc1)C1=CN=N[CH]1
+1555 [O]N(c1cc(cc(c1)C(=O)[O-])C(=O)[O-])[N]c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1556 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+1557 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+1558 Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1559 [O-]C(=O)C1=C([N]N=N1)C(=O)[O-] [O-]C(=O)C1=NN=N[C]1C(=O)[O-] [O-]C(=O)Cn1cncc1
+1560 [O-]C(=O)C1=C([N]N=N1)C(=O)[O-] [O-]C(=O)C1=NN=N[C]1C(=O)[O-] [O]N1[CH]C=CC(=C1)C(=O)[O-]
+1561 [N]1C=NN=C1
+1562 [O-]C(=O)c1cncc(c1)C(=O)[O-]
+1563 C1N2CN3CN1CN(C2)C3 [C]#N
+1564 O=C1[N]c2ccccc2[N]C1=O
+1565 NC1=[N]=CN=N1 [O-]C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[O-]
+1566 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+1567 [O-]C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[O-]
+1568 O=C1C(=O)C(=O)C1=O [O-]C(=O)C(=O)[O-]
+1569 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1570 [O-]C(=O)c1cccc(c1)P(=O)([O])[O]
+1571 [O-]C(=O)c1sc2c(c1)sc1c2sc(c1)C(=O)[O-]
+1572 [O-]C(=O)c1sc2c(c1)sc1c2sc(c1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1573 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+1574 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+1575 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+1576 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]
+1577 
+1578 CN(C1=N[P](N=C([N]1)N(C)C)(Oc1ccncc1)Oc1ccncc1)C
+1579 [O-]C(=O)c1nccnc1C(=O)[O-] n1ccc(cc1)[N][N]c1ccncc1
+1580 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1581 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1582 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1583 
+1584 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1585 N1=C[N]N([CH]1)CCN1[N]C=N[CH]1 n1cnn(c1)CCn1ncnc1
+1586 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1587 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1588 Nc1cc(cc(c1)C(=O)O)C(=O)[O-] Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1589 Nc1cc(cc(c1)C(=O)O)C(=O)[O-] Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1590 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1591 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+1592 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1593 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1594 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1595 [O-]C(=O)c1ccncc1
+1596 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1597 [O-]C(=O)c1cccc(c1)Oc1ccc(cc1)Oc1cccc(c1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1598 CCc1cnc(c(c1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)CCc1ccncc1
+1599 [O-]C(=O)c1ccc(s1)c1ccc(s1)C(=O)[O-] n1ccc(cc1)C=Cc1ccncc1
+1600 C(Cc1ccncc1)Cc1ccncc1 [O-]C(=O)c1c(cccc1C(=O)[O-])C(=O)[O-]
+1601 [O]S(c1cc(ccc1c1c[n-][nH]c1)c1c[n-][nH]c1)([O])[O]
+1602 [O]S(c1cc(ccc1c1c[n-][nH]c1)c1c[n-][nH]c1)([O])[O]
+1603 [O-]C(=O)C(=O)[O-]
+1604 [O-]C(=O)C(=O)[O-]
+1605 [O-]C(=O)C1=C([N]C=N1)C(=O)[O-] [O-]C(=O)C1=NC=N[C]1C(=O)[O-]
+1606 [O-]C(=O)C1=C([N]C=N1)C(=O)[O-] [O-]C(=O)C1=NC=N[C]1C(=O)[O-]
+1607 [O-]C(=O)C1=C([N]C=N1)C(=O)[O-] [O-]C(=O)C1=NC=N[C]1C(=O)[O-]
+1608 [O-]C(=O)C(=O)[O-]
+1609 [O-]C(=O)C(=O)[O-]
+1610 [O-]C(=O)C(=O)[O-]
+1611 [O-]C(=O)C(=O)[O-]
+1612 [O-]C(=O)C(=O)[O-]
+1613 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-]
+1614 N1=C[N]N([CH]1)Cc1c(CN2[N]C=N[CH]2)c(CN2[N]C=N[CH]2)c(c(c1CN1[N]C=N[CH]1)Cn1ncnc1)CN1[N]C=N[CH]1 [O-]C(=O)C=CC(=O)[O-] [O]S(=O)(=O)[O]
+1615 [O-]C(=O)COc1cc(C)cc(c1)C(=O)[O-]
+1616 [O-]C(=O)c1ccc(cc1)C1=NN=N[N]1
+1617 COc1ccc(cc1OS(c1ccc(cc1)C(=O)[O-])([O])[O])C(=O)[O-]
+1618 COc1ccc(cc1OS(c1ccc(cc1)C(=O)[O-])([O])[O])C(=O)[O-]
+1619 [O-]C(=O)COCC(=O)[O-]
+1620 [O-]C(=O)COCC(=O)[O-]
+1621 [O-]C=O
+1622 [O-]C(=O)CCC(=O)[O-] n1ccc(cc1)[N][N]c1ccncc1
+1623 C[C](c1ccncc1)[N][N][C](c1ccncc1)C [O-]C(=O)CCC(=O)[O-]
+1624 [O-]C=O
+1625 [O-]C=O
+1626 [O-]C(=O)C1=C([N]C=N1)C(=O)[O-] [O-]C(=O)C1=NC=N[C]1C(=O)[O-]
+1627 [O-]C(=O)CC(C(=O)[O-])N n1ccc(cc1)C=Cc1ccncc1
+1628 CC1=NN=C([C]1[C]1C(=NN=C1C)C)C CC1=N[N]C(=C1C1=C(C)[N]N=C1C)C [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1629 [O-]C(=O)c1cc(C(=O)[O-])c(c(c1C(=O)[O-])C(=O)[O-])C(=O)[O-]
+1630 [O-]C(=O)CCC(C(=O)[O-])C n1ccc(cc1)c1ccncc1
+1631 [O-]C(=O)CCC(C(=O)[O-])C n1ccc(cc1)c1ccncc1
+1632 [O-]C(=O)CCCC(=O)[O-] n1ccc(cc1)C=Cc1ccncc1
+1633 [O-]C(=O)CC(C(=O)[O-])N n1ccc(cc1)c1ccncc1
+1634 [O-]C(=O)CCC(C(=O)[O-])C n1ccc(cc1)c1ccncc1
+1635 [O-]C(=O)CCCC(=O)[O-] n1ccc(cc1)C=Cc1ccncc1
+1636 
+1637 O=C(c1cccc(n1)C(=O)[N]c1ccccc1)[N]c1ccccc1
+1638 [O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]
+1639 n1ccc(cn1)c1ccc(cc1)c1ccnnc1
+1640 N1=NN=C([N]1)c1ccc(cc1)C(c1ccc(cc1)C1=NN=N[N]1)(c1ccc(cc1)C1=NN=N[N]1)c1ccc(cc1)C1=NN=N[N]1
+1641 n1ccc(cc1)C#Cc1ccncc1
+1642 n1ccc(cc1)c1ccc(cc1)c1ccncc1
+1643 [O-]C(=O)c1cc(cc(c1)C(C)(C)C)C(=O)[O-] n1ccc(cc1)C=Cc1ccncc1
+1644 [O-]C(=O)c1ccc(cc1)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1645 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1646 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1647 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1648 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1649 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1650 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1651 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1652 Nn1c(nnc1c1cccc(c1)c1ccncc1)c1cccc(c1)c1ccncc1
+1653 [O-]C(=O)CNCC(=O)[O-]
+1654 [O-]C(=O)CNCC(=O)[O-]
+1655 [O-]C(=O)C=CC(=O)[O-] [O-]C(=O)CC(C(=O)[O-])[O]
+1656 Nc1ncnc2c1N=C[N]2
+1657 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1658 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1659 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1660 [O-]C(=O)c1cccc(c1)C(=O)[O-]
+1661 [O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-] n1ccc(cc1)[C]=[C]c1ccncc1
+1662 [O-]C(=O)CN1CC(=O)N(CC1=O)CC(=O)[O-]
+1663 [O-]C(=O)c1ccc(cc1)c1cc(c2ccc(cc2)C(=O)[O-])c2c3c1ccc1c3c(cc2)c(cc1c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1664 Cc1[nH][n-]c(c1Cc1c(C)[n-][nH]c1C)C [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-]
+1665 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1666 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1667 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1668 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1669 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1670 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1671 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1672 COc1cc(ccc1c1ccc(cc1)C(=O)[O-])C(=O)[O-] COc1cc(ccc1c1ccc(cc1OC)C(=O)[O-])C(=O)[O-]
+1673 n1ccnc(c1)C1=N[N]C(=N[N]1)c1nccnc1
+1674 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1675 n1ccc(cc1)CCc1ccncc1
+1676 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1677 [O-]C(=O)c1ccc(cc1)N(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)N(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1678 [O-]C(=O)c1ccc(cc1)N(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)N(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1679 [O-]C(=O)C1=C([N]C=N1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1680 [O-]C(=O)c1ncc(nc1)C(=O)[O-]
+1681 C1=Nc2c([N]1)cncn2
+1682 N1=C[C]2C(=NC=N2)N=C1
+1683 [O-]C(=O)c1cc(N(=O)=O)c(c(c1)N(=O)=O)c1c(cc(cc1N(=O)=O)C(=O)[O-])N(=O)=O
+1684 [O-]C(=O)c1cc(N(=O)=O)c(c(c1)N(=O)=O)c1c(cc(cc1N(=O)=O)C(=O)[O-])N(=O)=O
+1685 [O-]C(=O)c1cc(N(=O)=O)c(c(c1)N(=O)=O)c1c(cc(cc1N(=O)=O)C(=O)[O-])N(=O)=O
+1686 [O-]C(=O)c1cc(N(=O)=O)c(c(c1)N(=O)=O)c1c(cc(cc1N(=O)=O)C(=O)[O-])N(=O)=O
+1687 [O-]C(=O)c1cc(N(=O)=O)c(c(c1)N(=O)=O)c1c(cc(cc1N(=O)=O)C(=O)[O-])N(=O)=O
+1688 [O-]C=O
+1689 [O-]C=O
+1690 [O-]C=O
+1691 [O-]C=O
+1692 [O-]C=O
+1693 [O-]C(=O)CC(C(=O)[O-])O n1ccc(cc1)C=Cc1ccncc1
+1694 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1695 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])N1C(=O)c2ccc3c4c2c(C1=O)ccc4C(=O)N(C3=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1696 [O-]C(=O)c1cc(cc(c1)Oc1ccc(cc1)C(=O)[O-])Oc1ccc(cc1)C(=O)[O-]
+1697 [O-]C(=O)c1cc(cc(c1)Oc1ccc(cc1)C(=O)[O-])Oc1ccc(cc1)C(=O)[O-]
+1698 [O-]C(=O)c1ccc(cc1)N(c1ccc(cc1)C(=O)[O-])c1ccccc1
+1699 [O-]C(=O)c1ccc(cc1)c1c2ccccc2c(c2c1cccc2)c1ccc(cc1)C(=O)[O-]
+1700 [O-]C(=O)c1ccc2c3c1c(ccc3C(=O)N(C2=O)c1ccncc1)C(=O)[O-]
+1701 [O-]C(=O)c1ccc2c3c1c(ccc3C(=O)N(C2=O)c1ccncc1)C(=O)[O-]
+1702 [O-]C(=O)c1ccc2c3c1c(ccc3C(=O)N(C2=O)c1ccncc1)C(=O)[O-]
+1703 [O-]C(=O)c1ccc2c3c1c(ccc3C(=O)N(C2=O)c1ccncc1)C(=O)[O-]
+1704 [O-]C(=O)c1ccc2c3c1c(ccc3C(=O)N(C2=O)c1ccncc1)C(=O)[O-]
+1705 O=C(c1cc(cc(c1)C(=O)Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-])C(=O)Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-])Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1706 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1cc(nc(c1)c1ccncc1)c1ccncc1
+1707 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)C=Nc1cccc2c1cccc2N=Cc1ccncc1
+1708 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1709 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1710 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1711 [C]#[C].O [O-]C(=O)c1c(Cl)c(Cl)c(c(c1Cl)Cl)C(=O)[O-]
+1712 O=C1N(c2ccncc2)C(=O)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccncc1 [O-]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Mn]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O-])cc1)c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1713 [O-]C(=O)c1cccc(c1)C(=O)[O-]
+1714 O=C1NCCN1 [O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]
+1715 [O]CC1=N[N]C(=N1)CO [O]CC1=[N]=C(N=N1)CO
+1716 CC1=NN=C[N]1
+1717 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1718 [O-]C=O
+1719 [O-]C=O
+1720 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1721 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1722 Cc1[nH][n-]c(c1c1c(C)[n-][nH]c1C)C
+1723 CCOc1cc(C(=O)[O-])c2c(c1c1c(OCC)cc(c3c1ccc(c3)Cl)C(=O)[O-])ccc(c2)Cl
+1724 [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-]
+1725 [O-]C(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(=O)[O-] n1ccc(cc1)c1ccncc1
+1726 [O-]C(=O)CCCCC(=O)[O-]
+1727 [N]1=CN=NC=1 [N]1C=NN=C1 [O-]C(=O)c1cc(cc(c1)N(=O)=O)C(=O)[O-]
+1728 Fc1c(F)c(F)c(c(c1F)C1=C2C=CC3=[N]2[Zn]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccncc2)cc1)c1c(F)c(F)c(c(c1F)F)F)c1ccncc1)F [O-]C(=O)c1ccc(cc1)c1cc(c2ccc(cc2)C(=O)[O-])c(cc1c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1729 n1ccc(cc1)Sc1ccncc1
+1730 [O-]C(=O)c1cc(cc(c1)N(=O)=O)C(=O)[O-]
+1731 [O-]C(=O)c1cc(cc(c1)N(=O)=O)C(=O)[O-]
+1732 [O-]C(=O)c1cc(cc(c1)N(=O)=O)C(=O)[O-]
+1733 [O-]C(=O)c1ccncc1
+1734 [O-]C(=O)c1ccncc1
+1735 [O-]C(=O)c1ccncc1
+1736 
+1737 [O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1738 [O-]C(=O)c1cc(ccc1c1ccc(cc1C(=O)[O-])C(=O)[O-])C(=O)[O-]
+1739 [O-]C=O
+1740 [O-]C=O
+1741 [O-]C(=O)c1c2ccccc2c(c2c1cccc2)C(=O)[O-]
+1742 [O-]C(=O)c1ccc(cc1)C(=O)[O-] c1ncn(c1)Cc1ccc(cc1)Cn1cncc1
+1743 [O-]C(=O)c1cccc(c1)C(=O)[O-] c1ncn(c1)Cc1ccc(cc1)Cn1cncc1
+1744 [O-]C(=O)c1c2ccccc2c(c2c1cccc2)C(=O)[O-]
+1745 [O-]C(=O)c1cc(ccc1C(=O)[O-])Oc1ccc(c(c1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)CCc1ccncc1
+1746 [O-]C(=O)c1cc(ccc1C(=O)[O-])Oc1ccc(c(c1)C(=O)[O-])C(=O)[O-] n1ccc(cc1)CCc1ccncc1
+1747 [O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-] c1ncn(c1)c1ccc(cc1)n1cncc1
+1748 [C]#N
+1749 NCCN [C]#N
+1750 [S]C#N
+1751 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1752 [O]P(=O)(CP(=O)([O])[O])[O]
+1753 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1754 CC(C(=O)[O-])NC(=O)C(N)(C)C
+1755 [O]P(=O)([O])[O]
+1756 O=[C]1=NC=CC=N1
+1757 NC1=[N]=CN=N1
+1758 [O-]C(=O)c1ccc(nc1)c1ccc(cn1)C(=O)[O-] [O-]C=O
+1759 [O-]C(=O)C1=C([N]C=N1)C(=O)[O-] [O-]C(=O)C1=NC=N[C]1C(=O)[O-]
+1760 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1761 [C]#N
+1762 CCOP(=O)(c1cc(c2c3c1ccc1c3c(cc2)c(cc1P(=O)(OCC)[O])P(=O)(OCC)[O])P(=O)(OCC)[O])[O]
+1763 [O-]C(=O)c1ccc(cc1)N(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1764 O(CCC1=NN=N[N]1)CCC1=NN=N[N]1
+1765 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1766 CC1=NN=C([C]1[C]1C(=NN=C1C)C)C CC1=N[N]C(=C1C1=C(C)[N]N=C1C)C [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1767 [O-]C(=O)C(=O)[O-]
+1768 [C]#N [C]#[C]
+1769 [C]#N [C]#[C]
+1770 [C]#N [C]#[C]
+1771 [C]#N [C]#[C]
+1772 [C]#N [C]#[C]
+1773 CC1=NN=C([N]1)C
+1774 [O-]C(=O)c1cc(C#Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+1775 S=C1N=CC=NC1=S
+1776 [O-]C(=O)C1=NN=N[N]1
+1777 CP(=O)([O])[O]
+1778 [O-]C(=O)C(=O)[O-] [O-]C(=O)c1ccc(cc1)CN1[CH]C=C(C=C1)C1=C[CH]N(C=C1)Cc1ccc(cc1)C(=O)[O-]
+1779 Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-] [NH3]c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1780 [O-]C(=O)c1ccc2-c3c(S(=O)(=O)c2c1)cc(cc3)C(=O)[O-]
+1781 [O-]C(=O)c1ccc2-c3c(S(=O)(=O)c2c1)cc(cc3)C(=O)[O-]
+1782 [O-]C(=O)c1cc(cc(c1)S([O])([O])[O])C(=O)[O-] n1ccc(cc1)C=Cc1ccc(cc1)C=Cc1ccncc1
+1783 NC1=NC=[N]=C2C1=NC=N2 Nc1ncnc2=[N]=CN=c12
+1784 [O-]C(=O)c1ccc(c(c1)N)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1785 [O-]C(=O)c1c(F)c(F)c(c(c1F)F)C(=O)[O-] n1ccc(cc1)CCc1ccncc1
+1786 [O-]C(=O)c1ccc(cc1)c1cc(cc(n1)c1ccc(cc1)C(=O)[O-])c1ccncc1
+1787 [O-]C(=O)COc1cccc2c1cccc2OCC(=O)[O-]
+1788 O=N(=O)c1cc(ccc1Oc1cc(cc(c1)C(=O)[O-])C(=O)[O-])C(=O)[O-]
+1789 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1790 [O-]C(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)O)(c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]
+1791 [O-]C(=O)C1=C(C)[N]N=C1C [O-]C(=O)[C]1C(=NN=C1C)C
+1792 Cc1nccn1CCCn1ccnc1C [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1793 [O-]C(=O)c1cc([N][N]c2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-]
+1794 [O-]C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[O-]
+1795 n1ccc(cc1)c1ccncc1
+1796 [O-]C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[O-] n1ccc(cc1)c1ccncc1
+1797 [O-]C(=O)c1ccnc(c1)c1nccc(c1)C(=O)[O-]
+1798 [O-]C(=O)c1ccnc(c1)c1nccc(c1)C(=O)[O-]
+1799 C1=C[N]C=N1 C1=N[CH]C=N1
+1800 C1=C[N]C=N1 C1=N[CH]C=N1
+1801 C1=C[N]C=N1
+1802 O=N(=O)C1=NC=C[N]1
+1803 CC1=NC=C[N]1
+1804 O=CC1=NC=C[N]1 O=CC1=N[CH]C=N1
+1805 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+1806 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])N(Cc1ccc(cc1)C(=O)[O-])Cc1ccc(cc1)C(=O)[O-]
+1807 [O-]C(=O)c1cc(cc(c1)C(=O)[O-])N(Cc1ccc(cc1)C(=O)[O-])Cc1ccc(cc1)C(=O)[O-]
+1808 [O-]C(=O)c1ccc(cc1)c1ccncc1
+1809 [O-]C(=O)c1ccc(cc1)c1ccncc1
+1810 n1ccc(cc1)c1ccc(cc1)C(c1ccc(cc1)c1ccncc1)(c1ccc(cc1)c1ccncc1)c1ccc(cc1)c1ccncc1
+1811 [O-]C(=O)c1cc([O])c(cc1[O])C(=O)[O-]
+1812 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1813 C1CN2CCN1CC2 [O-]C(=O)c1ccc(cc1)C(=O)[O-]
+1814 CC1=[N]=C(N=N1)C [O-]C(=O)c1ccc(cc1)C(=O)O
+1815 [O-]C(=O)c1cc([O])c(cc1[O])C(=O)[O-]
+1816 [C]#N [NH]Cc1ccc(cc1)C[NH]
