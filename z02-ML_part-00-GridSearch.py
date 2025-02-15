@@ -18,7 +18,7 @@ kf = KFold(n_splits=5, shuffle=True, random_state=61)
 # 定义参数网格
 param_grid = {
     'iterations': [100, 500, 1000, 2000, 5000, 10000],
-    'learning_rate': [0.01, 0.02, 0.04, 0.06, 0.08, 1],
+    'learning_rate': [0.01, 0.02, 0.04, 0.06, 0.08, 0.1],
     'depth': [6, 7, 8, 9, 10, 11, 12]
 }
 
